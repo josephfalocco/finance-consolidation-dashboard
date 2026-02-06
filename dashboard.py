@@ -12,10 +12,7 @@ st.set_page_config(
 )
 
 # === CONFIGURATION ===
-# Use relative path for cloud deployment
 DATA_PATH = os.path.join(os.path.dirname(__file__), "data", "consolidated_master.csv")
-
-# Plotly dark theme template
 CHART_TEMPLATE = "plotly_dark"
 
 # === LOAD DATA ===
@@ -37,11 +34,9 @@ def main():
     # === SIDEBAR FILTERS ===
     st.sidebar.header("Filters")
     
-    # Department filter
     all_departments = ["All Departments"] + sorted(df["Department"].unique().tolist())
     selected_dept = st.sidebar.selectbox("Select Department", all_departments)
     
-    # Date range filter
     min_date = df["Date"].min().date()
     max_date = df["Date"].max().date()
     
@@ -52,11 +47,9 @@ def main():
         max_value=max_date
     )
     
-    # Category filter
     all_categories = ["All Categories"] + sorted(df["Category"].unique().tolist())
     selected_category = st.sidebar.selectbox("Select Category", all_categories)
     
-    # Sidebar info
     st.sidebar.markdown("---")
     st.sidebar.markdown("### About This Demo")
     st.sidebar.markdown("""
@@ -70,7 +63,6 @@ def main():
     - After: 1 dashboard, instant refresh
     """)
     
-    # Create a unique key for chart resets
     filter_key = f"{selected_dept}_{date_range}_{selected_category}"
     
     # Apply filters
@@ -125,20 +117,33 @@ def main():
                 x="Department",
                 y="Revenue",
                 color="Department",
-                text_auto='.2s',
+                text=revenue_by_dept["Revenue"].apply(lambda x: f"${x/1_000_000:.1f}M"),
                 color_discrete_sequence=["#2ecc71"],
                 template=CHART_TEMPLATE
             )
+            
+            # Calculate y-axis max with padding for labels
+            y_max = revenue_by_dept["Revenue"].max() * 1.2
             
             fig_revenue.update_layout(
                 showlegend=False,
                 yaxis_title="Revenue ($)",
                 xaxis_title="",
                 yaxis_tickformat="$,.0f",
-                height=400
+                yaxis_range=[0, y_max],
+                height=400,
+                bargap=0.5,
+                uniformtext_minsize=10,
+                uniformtext_mode='show'
             )
             
-            fig_revenue.update_traces(textposition="outside")
+            fig_revenue.update_traces(
+                textposition="outside",
+                textfont_size=12,
+                marker_line_width=0,
+                width=0.5
+            )
+            
             st.plotly_chart(fig_revenue, use_container_width=True, key=f"rev_dept_{filter_key}")
         else:
             st.info("No revenue data for selected filters.")
@@ -157,20 +162,33 @@ def main():
                 x="Department",
                 y="Expenses",
                 color="Department",
-                text_auto='.2s',
+                text=expenses_by_dept["Expenses"].apply(lambda x: f"${x/1_000_000:.1f}M"),
                 color_discrete_sequence=px.colors.qualitative.Set2,
                 template=CHART_TEMPLATE
             )
+            
+            # Calculate y-axis max with padding for labels
+            y_max = expenses_by_dept["Expenses"].max() * 1.2
             
             fig_expenses.update_layout(
                 showlegend=False,
                 yaxis_title="Expenses ($)",
                 xaxis_title="",
                 yaxis_tickformat="$,.0f",
-                height=400
+                yaxis_range=[0, y_max],
+                height=400,
+                bargap=0.5,
+                uniformtext_minsize=10,
+                uniformtext_mode='show'
             )
             
-            fig_expenses.update_traces(textposition="outside")
+            fig_expenses.update_traces(
+                textposition="outside",
+                textfont_size=12,
+                marker_line_width=0,
+                width=0.5
+            )
+            
             st.plotly_chart(fig_expenses, use_container_width=True, key=f"exp_dept_{filter_key}")
         else:
             st.info("No expense data for selected filters.")
