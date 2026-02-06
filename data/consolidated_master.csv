@@ -1,0 +1,1370 @@
+Date,Department,Category,Amount,Description,Type
+2025-01-01,Sales,Software & Subscriptions,3828.17,Outreach License,Expense
+2025-01-01,Finance,Software & Tools,1915.66,FloQast Close Management,Expense
+2025-01-01,Marketing,Digital Advertising,12234.62,YouTube Pre-roll Ads,Expense
+2025-01-01,Marketing,Software & Tools,13320.26,Marketo Subscription,Expense
+2025-01-01,Operations,Office Supplies & General,1898.75,Janitorial Service Contract,Expense
+2025-01-01,Operations,IT Infrastructure,3848.97,AWS Hosting - Monthly,Expense
+2025-01-02,Finance,Software & Tools,3125.07,Coupa Procurement,Expense
+2025-01-02,Finance,Recruiting & HR,384.84,Onboarding Materials,Expense
+2025-01-02,Finance,Audit & Compliance,9956.51,Controls Testing - Q1,Expense
+2025-01-02,Marketing,Events & Sponsorships,11125.81,Roadshow - New York,Expense
+2025-01-02,Operations,Utilities,2725.86,Natural Gas - HQ,Expense
+2025-01-02,Operations,Logistics & Shipping,1691.73,USPS Postage Meter,Expense
+2025-01-02,Operations,Office Supplies & General,7276.71,Janitorial Service Contract,Expense
+2025-01-02,Operations,Facilities & Rent,9018.98,Office Lease - Satellite Office,Expense
+2025-01-03,Marketing,Digital Advertising,6961.96,LinkedIn Ads - Event Promo,Expense
+2025-01-03,Marketing,Digital Advertising,7113.75,Paid Search - Non-Brand,Expense
+2025-01-03,Marketing,Brand & Collateral,3863.73,Company Swag Order,Expense
+2025-01-03,Sales,Training & Development,1136.25,Coaching Session,Expense
+2025-01-03,Finance,Training & Certifications,933.26,CFA Program Materials,Expense
+2025-01-03,Operations,Utilities,3395.08,Waste Management,Expense
+2025-01-04,Finance,Office & Admin,1240.03,Subscription - WSJ,Expense
+2025-01-04,Operations,IT Infrastructure,18253.96,Cybersecurity Suite - Palo Alto,Expense
+2025-01-04,Operations,Security Services,1611.19,Visitor Management System,Expense
+2025-01-05,Finance,Audit & Compliance,24354.83,Risk Assessment Services,Expense
+2025-01-05,Operations,Insurance,3419.04,Directors & Officers Insurance,Expense
+2025-01-05,Marketing,Software & Tools,4147.19,Google Analytics 360,Expense
+2025-01-05,Operations,Utilities,4271.34,Water & Sewer - Regional West,Expense
+2025-01-05,Marketing,Brand & Collateral,6445.29,Brand Guidelines Update,Expense
+2025-01-06,Sales,Recurring Revenue,87222.97,Annual Contract - Northwind Traders,Revenue
+2025-01-06,Finance,Software & Tools,3426.92,Concur Expense Management,Expense
+2025-01-07,Marketing,PR & Communications,7581.93,Media Monitoring Service,Expense
+2025-01-07,Marketing,Digital Advertising,3103.18,Paid Search - Brand Terms,Expense
+2025-01-07,Finance,Software & Tools,2781.36,Concur Expense Management,Expense
+2025-01-07,Finance,Training & Certifications,1985.84,Leadership Development,Expense
+2025-01-07,Operations,Utilities,7939.18,Water & Sewer - HQ,Expense
+2025-01-10,Marketing,Software & Tools,3550.25,ZoomInfo Marketing,Expense
+2025-01-10,Sales,Client Entertainment,1354.44,Thank You Gift,Expense
+2025-01-10,Finance,Office & Admin,625.86,Printer Toner & Paper,Expense
+2025-01-10,Operations,Facilities & Rent,36847.35,Office Lease - Downtown Office,Expense
+2025-01-11,Operations,Security Services,2254.18,Badge System License,Expense
+2025-01-11,Operations,Office Supplies & General,3501.26,First Aid Supplies,Expense
+2025-01-11,Finance,Banking & Merchant Fees,9275.99,ACH Processing Fees,Expense
+2025-01-11,Operations,IT Infrastructure,7579.89,Cybersecurity Suite - Palo Alto,Expense
+2025-01-12,Marketing,Events & Sponsorships,12890.5,Trade Show Booth - Finance Leaders Forum,Expense
+2025-01-12,Sales,Sales Commissions,15467.14,Bonus - Q1 Performance,Expense
+2025-01-13,Marketing,Software & Tools,2563.52,HubSpot License,Expense
+2025-01-13,Sales,Sales Commissions,28400.52,Accelerator Bonus,Expense
+2025-01-13,Sales,Office Supplies,590.18,Business Cards,Expense
+2025-01-13,Operations,Logistics & Shipping,4928.15,Package Room Supplies,Expense
+2025-01-13,Operations,Logistics & Shipping,3945.69,USPS Postage Meter,Expense
+2025-01-13,Finance,Recruiting & HR,4169.78,LinkedIn Recruiter Seat,Expense
+2025-01-14,Sales,Client Entertainment,3422.33,Thank You Gift,Expense
+2025-01-14,Finance,Office & Admin,1012.72,Reference Materials,Expense
+2025-01-14,Sales,Product Sales,84726.63,Professional Tier - Jasper Analytics,Revenue
+2025-01-15,Sales,Sales Commissions,14787.8,Commission Payout - January,Expense
+2025-01-15,Marketing,PR & Communications,4613.97,Crisis Communications Prep,Expense
+2025-01-16,Marketing,Events & Sponsorships,4896.48,Virtual Event Platform,Expense
+2025-01-16,Marketing,Brand & Collateral,4034.38,Print Brochures,Expense
+2025-01-16,Operations,Office Supplies & General,1634.68,Paper Products,Expense
+2025-01-17,Sales,Client Entertainment,1292.65,Event Tickets - Northwind Traders,Expense
+2025-01-17,Sales,Software & Subscriptions,1569.3,Outreach License,Expense
+2025-01-17,Operations,Facilities & Rent,27375.26,Building Maintenance Fee,Expense
+2025-01-17,Finance,Recruiting & HR,1264.86,Recruiting Fee - Senior Accountant,Expense
+2025-01-17,Marketing,Events & Sponsorships,11508.33,Roadshow - San Francisco,Expense
+2025-01-18,Sales,Software & Subscriptions,774.44,Gong.io Platform,Expense
+2025-01-18,Sales,Training & Development,1716.41,Sales Training Program,Expense
+2025-01-18,Sales,Service Revenue,230726.35,Consulting Engagement - Harbor Media,Revenue
+2025-01-18,Sales,Office Supplies,536.75,Presentation Materials,Expense
+2025-01-19,Finance,Professional Services,4474.89,R&D Tax Credit Study,Expense
+2025-01-19,Finance,Training & Certifications,1360.47,Finance Conference - CFO Forum,Expense
+2025-01-19,Operations,Security Services,5242.13,Security Guard Contract,Expense
+2025-01-19,Sales,Software & Subscriptions,1734.2,DocuSign,Expense
+2025-01-20,Marketing,Content & Creative,15192.79,Video Production - Blog Series,Expense
+2025-01-20,Marketing,Events & Sponsorships,4251.02,Conference Sponsorship - Finance Leaders Forum,Expense
+2025-01-20,Operations,Equipment & Maintenance,17351.41,Monitor Refresh Program,Expense
+2025-01-20,Sales,Service Revenue,94506.09,Implementation Services - Harbor Media,Revenue
+2025-01-21,Operations,Insurance,5908.86,Property Insurance - Quarterly,Expense
+2025-01-21,Operations,Equipment & Maintenance,4146.29,HVAC Maintenance,Expense
+2025-01-21,Operations,IT Infrastructure,15423.87,Help Desk Software,Expense
+2025-01-21,Sales,Product Sales,62100.28,Starter Bundle - Summit Healthcare,Revenue
+2025-01-22,Operations,Utilities,3496.23,Electric Bill - Regional East,Expense
+2025-01-22,Marketing,PR & Communications,7619.8,Analyst Relations - IDC,Expense
+2025-01-22,Marketing,PR & Communications,2824.21,Executive Comms Coaching,Expense
+2025-01-22,Finance,Software & Tools,11221.92,NetSuite License - Monthly,Expense
+2025-01-22,Operations,Insurance,7591.96,Cyber Liability Insurance,Expense
+2025-01-22,Sales,Sales Commissions,19865.58,Accelerator Bonus,Expense
+2025-01-22,Sales,Travel & Entertainment,9002.11,Client Dinner - Atlanta,Expense
+2025-01-23,Sales,Recurring Revenue,177629.27,Monthly Subscription - Northwind Traders,Revenue
+2025-01-23,Marketing,Content & Creative,24350.38,Agency Retainer - Spark Creative,Expense
+2025-01-24,Marketing,Digital Advertising,11422.51,Retargeting Campaign,Expense
+2025-01-24,Marketing,Digital Advertising,8896.4,Paid Search - Brand Terms,Expense
+2025-01-25,Marketing,Content & Creative,7379.96,Freelance Writer - Case Study,Expense
+2025-01-25,Finance,Professional Services,9916.31,Technical Accounting Support,Expense
+2025-01-25,Finance,Training & Certifications,469.18,CPA CPE Credits - A. Davis,Expense
+2025-01-25,Sales,Service Revenue,214186.38,Consulting Engagement - Granite Construction,Revenue
+2025-01-25,Sales,Training & Development,2374.44,Certification Course,Expense
+2025-01-26,Sales,Office Supplies,793.34,Demo Equipment,Expense
+2025-01-26,Operations,IT Infrastructure,4135.79,Cybersecurity Suite - Fortinet,Expense
+2025-01-26,Operations,Insurance,2500.79,Workers Compensation,Expense
+2025-01-26,Finance,Banking & Merchant Fees,5505.01,Credit Card Processing Fees,Expense
+2025-01-26,Marketing,PR & Communications,2224.88,PR Agency Retainer - Edelman,Expense
+2025-01-27,Operations,Office Supplies & General,353.11,Paper Products,Expense
+2025-01-27,Operations,Utilities,2476.69,Electric Bill - Regional West,Expense
+2025-01-27,Operations,Logistics & Shipping,3021.2,FedEx Account - Monthly,Expense
+2025-01-27,Operations,Facilities & Rent,19909.61,Common Area Charges,Expense
+2025-01-27,Sales,Client Entertainment,1493.72,Client Gift - Harbor Media,Expense
+2025-01-27,Sales,Recurring Revenue,160567.32,Monthly Subscription - Northwind Traders,Revenue
+2025-01-27,Sales,Sales Commissions,25186.59,Bonus - Q1 Performance,Expense
+2025-01-27,Sales,Software & Subscriptions,2765.22,Salesforce License,Expense
+2025-01-28,Sales,Product Sales,86705.74,Growth Package - Summit Healthcare,Revenue
+2025-01-28,Operations,Equipment & Maintenance,12216.49,Office Furniture - Monitors,Expense
+2025-01-28,Sales,Travel & Entertainment,7116.65,Uber/Taxi - Denver,Expense
+2025-01-28,Marketing,Digital Advertising,38731.39,Retargeting Campaign,Expense
+2025-01-28,Finance,Recruiting & HR,1994.12,Onboarding Materials,Expense
+2025-02-01,Marketing,Content & Creative,4951.21,Video Production - Social Content,Expense
+2025-02-01,Operations,Facilities & Rent,23856.92,Building Maintenance Fee,Expense
+2025-02-02,Finance,Office & Admin,873.99,Office Supplies - Finance,Expense
+2025-02-02,Operations,Facilities & Rent,32384.27,Parking Garage Contract,Expense
+2025-02-02,Marketing,Digital Advertising,10986.75,Paid Search - Brand Terms,Expense
+2025-02-02,Operations,Security Services,10955.36,Access Control System,Expense
+2025-02-02,Operations,Insurance,9835.23,Workers Compensation,Expense
+2025-02-02,Operations,Equipment & Maintenance,2800.66,Computer Hardware - Keyboards/Mice,Expense
+2025-02-02,Operations,IT Infrastructure,7935.57,Backup & Recovery Services,Expense
+2025-02-02,Operations,Utilities,6551.21,Water & Sewer - Regional East,Expense
+2025-02-02,Operations,Facilities & Rent,15512.31,Building Maintenance Fee,Expense
+2025-02-02,Marketing,PR & Communications,6522.68,Media Monitoring Service,Expense
+2025-02-03,Finance,Training & Certifications,1399.26,Technical Accounting Training,Expense
+2025-02-04,Operations,Security Services,2332.76,Security Camera Maintenance,Expense
+2025-02-04,Marketing,Digital Advertising,3511.94,Display Network - Brand Awareness,Expense
+2025-02-05,Operations,Logistics & Shipping,1789.99,Package Room Supplies,Expense
+2025-02-05,Finance,Office & Admin,1883.94,Subscription - WSJ,Expense
+2025-02-05,Operations,Insurance,4275.19,General Liability Insurance,Expense
+2025-02-05,Sales,Travel & Entertainment,15942.36,Client Dinner - New York,Expense
+2025-02-05,Operations,Office Supplies & General,3402.71,Janitorial Service Contract,Expense
+2025-02-05,Operations,Utilities,4261.29,Waste Management,Expense
+2025-02-05,Operations,Office Supplies & General,2722.43,Office Supplies - Staples,Expense
+2025-02-05,Operations,Office Supplies & General,1090.07,Office Supplies - W.B. Mason,Expense
+2025-02-06,Operations,Office Supplies & General,3571.38,Paper Products,Expense
+2025-02-06,Operations,Logistics & Shipping,3117.49,FedEx Account - Monthly,Expense
+2025-02-06,Finance,Banking & Merchant Fees,1904.31,Foreign Exchange Fees,Expense
+2025-02-06,Finance,Professional Services,6261.24,Tax Advisory - Deloitte Tax,Expense
+2025-02-07,Finance,Software & Tools,11279.51,Adaptive Insights,Expense
+2025-02-07,Sales,Training & Development,776.52,Sales Training Program,Expense
+2025-02-07,Marketing,Digital Advertising,9625.15,LinkedIn Ads - Event Promo,Expense
+2025-02-08,Marketing,Brand & Collateral,4938.61,Print Brochures,Expense
+2025-02-08,Marketing,Events & Sponsorships,6424.49,Speaker Fee - Digital Marketing World,Expense
+2025-02-08,Marketing,PR & Communications,5831.23,PR Agency Retainer - FleishmanHillard,Expense
+2025-02-08,Finance,Office & Admin,1746.2,Department Supplies,Expense
+2025-02-08,Operations,Equipment & Maintenance,13590.64,HVAC Maintenance,Expense
+2025-02-08,Operations,IT Infrastructure,19879.4,Zoom Enterprise License,Expense
+2025-02-08,Sales,Training & Development,551.85,Certification Course,Expense
+2025-02-09,Finance,Banking & Merchant Fees,4751.08,Merchant Processing - Square,Expense
+2025-02-09,Finance,Recruiting & HR,2474.31,Job Board Posting - Indeed,Expense
+2025-02-09,Sales,Product Sales,185238.43,Starter Bundle - Acme Corp,Revenue
+2025-02-09,Marketing,Content & Creative,9283.81,Stock Images License,Expense
+2025-02-10,Marketing,Events & Sponsorships,10712.33,Roadshow - Boston,Expense
+2025-02-10,Operations,Utilities,2408.94,Water & Sewer - Regional West,Expense
+2025-02-10,Operations,Insurance,3313.29,Property Insurance - Quarterly,Expense
+2025-02-10,Marketing,Software & Tools,6969.24,Drift Chatbot,Expense
+2025-02-11,Sales,Service Revenue,83702.87,Support Retainer - Jasper Analytics,Revenue
+2025-02-11,Finance,Software & Tools,7701.47,Concur Expense Management,Expense
+2025-02-12,Operations,Equipment & Maintenance,4053.85,Copier Lease - HP,Expense
+2025-02-12,Marketing,PR & Communications,2483.4,PR Agency Retainer - FleishmanHillard,Expense
+2025-02-12,Sales,Recurring Revenue,117645.2,Monthly Subscription - Beacon Financial,Revenue
+2025-02-12,Finance,Training & Certifications,1586.69,Technical Accounting Training,Expense
+2025-02-12,Sales,Recurring Revenue,210214.62,Annual Contract - Oakmont Properties,Revenue
+2025-02-12,Sales,Recurring Revenue,69262.96,Annual Contract - Oakmont Properties,Revenue
+2025-02-13,Marketing,Digital Advertising,6287.33,Programmatic Buy - Retargeting,Expense
+2025-02-13,Marketing,Brand & Collateral,3994.81,Business Cards Reorder,Expense
+2025-02-13,Finance,Office & Admin,2012.24,Department Supplies,Expense
+2025-02-13,Sales,Office Supplies,544.02,Business Cards,Expense
+2025-02-14,Operations,Facilities & Rent,27079.53,Office Lease - Regional Office - East,Expense
+2025-02-14,Sales,Software & Subscriptions,2736.18,Salesforce License,Expense
+2025-02-16,Marketing,Software & Tools,5509.95,Google Analytics 360,Expense
+2025-02-16,Sales,Service Revenue,121830.38,Training Package - Vertex Solutions,Revenue
+2025-02-16,Sales,Sales Commissions,37607.94,Bonus - Q1 Performance,Expense
+2025-02-16,Operations,Equipment & Maintenance,6001.55,Copier Lease - Canon,Expense
+2025-02-16,Sales,Recurring Revenue,39461.1,API Usage - Atlas Manufacturing,Revenue
+2025-02-17,Operations,Security Services,2738.83,Visitor Management System,Expense
+2025-02-17,Operations,Insurance,2718.77,Workers Compensation,Expense
+2025-02-17,Finance,Software & Tools,1669.56,Expensify Licenses,Expense
+2025-02-17,Finance,Banking & Merchant Fees,5677.83,Foreign Exchange Fees,Expense
+2025-02-17,Marketing,Digital Advertising,13858.96,Paid Search - Non-Brand,Expense
+2025-02-18,Marketing,Content & Creative,17349.13,Freelance Writer - Landing Pages,Expense
+2025-02-18,Sales,Product Sales,54099.2,Growth Package - Summit Healthcare,Revenue
+2025-02-18,Sales,Sales Commissions,51357.55,SPIF Payout,Expense
+2025-02-18,Sales,Software & Subscriptions,2046.04,Outreach License,Expense
+2025-02-18,Finance,Software & Tools,2986.83,FloQast Close Management,Expense
+2025-02-18,Finance,Audit & Compliance,52671.09,SOX Compliance Testing,Expense
+2025-02-19,Finance,Recruiting & HR,2270.29,Job Board Posting - Indeed,Expense
+2025-02-20,Sales,Office Supplies,834.53,Sales Collateral Printing,Expense
+2025-02-20,Finance,Software & Tools,1618.6,Coupa Procurement,Expense
+2025-02-20,Marketing,Content & Creative,3736.89,Animation Project,Expense
+2025-02-21,Sales,Product Sales,-447717.66,Professional Tier - Meridian Foods,Revenue
+2025-02-21,Sales,Client Entertainment,1473.92,Event Tickets - Northwind Traders,Expense
+2025-02-21,Finance,Software & Tools,1135.93,FloQast Close Management,Expense
+2025-02-21,Finance,Training & Certifications,2064.31,Finance Conference - FP&A Summit,Expense
+2025-02-21,Operations,Logistics & Shipping,5304.55,USPS Postage Meter,Expense
+2025-02-22,Marketing,Digital Advertising,31359.29,YouTube Pre-roll Ads,Expense
+2025-02-22,Sales,Service Revenue,124333.71,Consulting Engagement - Granite Construction,Revenue
+2025-02-22,Operations,Utilities,4323.71,Electric Bill - HQ,Expense
+2025-02-23,Sales,Travel & Entertainment,10139.35,Hotel - Miami,Expense
+2025-02-23,Sales,Software & Subscriptions,5441.27,Salesforce License,Expense
+2025-02-23,Sales,Client Entertainment,1574.43,Thank You Gift,Expense
+2025-02-23,Marketing,Events & Sponsorships,11903.12,Speaker Fee - B2B Sales Con,Expense
+2025-02-24,Marketing,Digital Advertising,6253.17,Paid Search - Non-Brand,Expense
+2025-02-24,Sales,Software & Subscriptions,1314.37,LinkedIn Sales Navigator,Expense
+2025-02-24,Finance,Professional Services,9320.89,Valuation Services,Expense
+2025-02-24,Sales,Training & Development,480.11,Workshop Fee,Expense
+2025-02-24,Operations,Office Supplies & General,2129.46,Cleaning Supplies,Expense
+2025-02-25,Sales,Recurring Revenue,37892.44,Platform Access - Pinnacle Industries,Revenue
+2025-02-25,Sales,Product Sales,297615.0,Enterprise License - Delta Logistics,Revenue
+2025-02-26,Sales,Recurring Revenue,68387.62,API Usage - Delta Logistics,Revenue
+2025-02-26,Operations,IT Infrastructure,17185.39,Slack Business+ Plan,Expense
+2025-02-26,Marketing,Software & Tools,3092.62,Vidyard License,Expense
+2025-02-26,Operations,Logistics & Shipping,6270.85,Package Room Supplies,Expense
+2025-02-26,Marketing,Software & Tools,9467.47,Marketo Subscription,Expense
+2025-02-27,Sales,Travel & Entertainment,6535.58,Conference Travel,Expense
+2025-02-27,Sales,Service Revenue,65412.75,Consulting Engagement - Summit Healthcare,Revenue
+2025-02-27,Marketing,PR & Communications,3858.79,Press Release Distribution,Expense
+2025-02-27,Marketing,Brand & Collateral,2975.29,Company Swag Order,Expense
+2025-02-27,Finance,Recruiting & HR,1023.93,Job Board Posting - Indeed,Expense
+2025-02-27,Sales,Training & Development,701.31,Sales Training Program,Expense
+2025-02-28,Sales,Office Supplies,418.36,Presentation Materials,Expense
+2025-02-28,Sales,Product Sales,282208.85,Enterprise License - Keystone Energy,Revenue
+2025-02-28,Finance,Professional Services,5935.28,Tax Return Preparation,Expense
+2025-02-28,Finance,Banking & Merchant Fees,6167.25,Bank Account Fees - Citibank,Expense
+2025-02-28,Operations,Office Supplies & General,2463.11,Coffee Service - Monthly,Expense
+2025-02-28,Operations,Equipment & Maintenance,5996.19,Copier Lease - HP,Expense
+2025-03-01,Operations,IT Infrastructure,27697.09,Okta Identity Management,Expense
+2025-03-01,Marketing,Content & Creative,4355.03,Freelance Writer - Whitepaper,Expense
+2025-03-01,Marketing,PR & Communications,1327.17,PR Agency Retainer - Brunswick Group,Expense
+2025-03-01,Operations,Utilities,7114.32,Electric Bill - Regional East,Expense
+2025-03-01,Marketing,Digital Advertising,37979.26,Display Network - ABM Campaign,Expense
+2025-03-02,Marketing,Events & Sponsorships,2315.48,Conference Sponsorship - SaaStr Annual,Expense
+2025-03-02,Marketing,Brand & Collateral,1859.7,Business Cards Reorder,Expense
+2025-03-02,Operations,Security Services,2997.66,Access Control System,Expense
+2025-03-02,Operations,Equipment & Maintenance,20361.89,Monitor Refresh Program,Expense
+2025-03-02,Finance,Training & Certifications,2714.28,Technical Accounting Training,Expense
+2025-03-03,Finance,Office & Admin,2131.79,Reference Materials,Expense
+2025-03-03,Operations,Utilities,1774.34,Water & Sewer - Regional East,Expense
+2025-03-03,Operations,Utilities,1322.58,Phone System - Monthly,Expense
+2025-03-03,Operations,Office Supplies & General,2051.68,Coffee Service - Monthly,Expense
+2025-03-03,Finance,Software & Tools,6211.7,FloQast Close Management,Expense
+2025-03-03,Marketing,Content & Creative,4539.31,Freelance Writer - Email Templates,Expense
+2025-03-04,Operations,Utilities,4331.15,Internet Service - AT&T Fiber,Expense
+2025-03-04,Finance,Software & Tools,3864.27,NetSuite License - Monthly,Expense
+2025-03-05,Finance,Office & Admin,969.58,Department Supplies,Expense
+2025-03-06,Operations,Security Services,2065.3,Access Control System,Expense
+2025-03-07,Marketing,Events & Sponsorships,7183.38,Event Swag & Materials,Expense
+2025-03-07,Marketing,Events & Sponsorships,4015.21,Event Swag & Materials,Expense
+2025-03-07,Finance,Training & Certifications,1730.36,CFI Certification Program,Expense
+2025-03-08,Operations,Logistics & Shipping,3964.34,Freight Shipping - XPO Logistics,Expense
+2025-03-08,Sales,Training & Development,1956.9,Coaching Session,Expense
+2025-03-08,Operations,Insurance,6488.66,Workers Compensation,Expense
+2025-03-09,Sales,Service Revenue,63218.11,Training Package - Summit Healthcare,Revenue
+2025-03-09,Marketing,Digital Advertising,4871.81,Paid Search - Brand Terms,Expense
+2025-03-09,Marketing,Digital Advertising,4321.74,LinkedIn Ads - Product Launch,Expense
+2025-03-09,Finance,Audit & Compliance,17976.81,Audit Committee Support,Expense
+2025-03-10,Sales,Training & Development,1197.7,Conference Registration,Expense
+2025-03-10,Marketing,Digital Advertising,5372.34,YouTube Pre-roll Ads,Expense
+2025-03-10,Sales,Client Entertainment,3532.9,Thank You Gift,Expense
+2025-03-11,Marketing,Content & Creative,2216.04,Stock Images License,Expense
+2025-03-11,Operations,Insurance,6948.88,Cyber Liability Insurance,Expense
+2025-03-11,Marketing,Events & Sponsorships,5327.45,Roadshow - Nashville,Expense
+2025-03-11,Marketing,Brand & Collateral,1226.64,Office Signage,Expense
+2025-03-11,Operations,Utilities,1567.29,Natural Gas - Regional West,Expense
+2025-03-11,Sales,Product Sales,151290.05,Starter Bundle - Harbor Media,Revenue
+2025-03-11,Sales,Service Revenue,309290.76,Consulting Engagement - Crestwood Partners,Revenue
+2025-03-12,Operations,Security Services,3207.37,Access Control System,Expense
+2025-03-12,Marketing,Software & Tools,8690.21,6sense Platform,Expense
+2025-03-12,Sales,Sales Commissions,10773.76,Bonus - Q1 Performance,Expense
+2025-03-12,Marketing,Content & Creative,8949.83,Freelance Writer - Whitepaper,Expense
+2025-03-13,Marketing,Digital Advertising,3384.65,LinkedIn Ads - Event Promo,Expense
+2025-03-13,Operations,Utilities,1504.77,Water & Sewer - HQ,Expense
+2025-03-13,Finance,Software & Tools,7358.98,Bill.com Payment Platform,Expense
+2025-03-13,Finance,Recruiting & HR,3120.64,Background Check Services,Expense
+2025-03-13,Finance,Banking & Merchant Fees,2115.43,Merchant Processing - Square,Expense
+2025-03-14,Marketing,Content & Creative,10334.27,Stock Images License,Expense
+2025-03-14,Marketing,Software & Tools,12781.16,HubSpot License,Expense
+2025-03-15,Finance,Recruiting & HR,5742.25,Onboarding Materials,Expense
+2025-03-16,Finance,Professional Services,8568.56,Technical Accounting Support,Expense
+2025-03-16,Finance,Software & Tools,3940.24,Expensify Licenses,Expense
+2025-03-16,Sales,Service Revenue,65448.29,Training Package - Keystone Energy,Revenue
+2025-03-16,Operations,Logistics & Shipping,3973.52,Shipping Software License,Expense
+2025-03-16,Marketing,Brand & Collateral,3065.01,Trade Show Banners,Expense
+2025-03-16,Marketing,Brand & Collateral,5270.31,Company Swag Order,Expense
+2025-03-17,Marketing,PR & Communications,5590.69,Press Release Distribution,Expense
+2025-03-17,Finance,Training & Certifications,1331.23,Finance Conference - CFO Forum,Expense
+2025-03-17,Finance,Banking & Merchant Fees,4533.8,ACH Processing Fees,Expense
+2025-03-17,Sales,Sales Commissions,25725.11,SPIF Payout,Expense
+2025-03-17,Sales,Sales Commissions,50306.01,Accelerator Bonus,Expense
+2025-03-17,Sales,Travel & Entertainment,7644.67,Conference Travel,Expense
+2025-03-17,Sales,Sales Commissions,11964.98,Commission Payout - March,Expense
+2025-03-18,Finance,Audit & Compliance,8927.31,Internal Audit Services,Expense
+2025-03-18,Operations,Office Supplies & General,1470.71,Janitorial Service Contract,Expense
+2025-03-18,Operations,Equipment & Maintenance,8517.96,AV Equipment - Conference Room,Expense
+2025-03-18,Sales,Training & Development,525.23,Certification Course,Expense
+2025-03-18,Sales,Recurring Revenue,142327.11,Platform Access - Acme Corp,Revenue
+2025-03-19,Marketing,Digital Advertising,5072.26,Paid Search - Non-Brand,Expense
+2025-03-19,Marketing,Digital Advertising,20297.04,Programmatic Buy - Product Launch,Expense
+2025-03-19,Marketing,Events & Sponsorships,4331.13,Conference Sponsorship - Dreamforce,Expense
+2025-03-19,Sales,Product Sales,151096.42,Starter Bundle - Jasper Analytics,Revenue
+2025-03-19,Sales,Service Revenue,112075.64,Training Package - Jasper Analytics,Revenue
+2025-03-19,Sales,Software & Subscriptions,4002.59,Gong.io Platform,Expense
+2025-03-19,Sales,Training & Development,1018.57,Sales Training Program,Expense
+2025-03-20,Sales,Recurring Revenue,372230.41,Annual Contract - Harbor Media,Revenue
+2025-03-20,Operations,Insurance,6851.36,Directors & Officers Insurance,Expense
+2025-03-20,Sales,Sales Commissions,8455.28,Bonus - Q1 Performance,Expense
+2025-03-20,Sales,Recurring Revenue,202028.71,Annual Contract - Summit Healthcare,Revenue
+2025-03-20,Sales,Software & Subscriptions,4399.88,Salesforce License,Expense
+2025-03-20,Finance,Professional Services,2850.31,Tax Advisory - EY Tax,Expense
+2025-03-21,Operations,Security Services,2773.16,Visitor Management System,Expense
+2025-03-21,Operations,Office Supplies & General,4197.5,Paper Products,Expense
+2025-03-21,Marketing,Events & Sponsorships,2652.53,Webinar Platform Hosting,Expense
+2025-03-22,Finance,Office & Admin,927.69,Office Supplies - Finance,Expense
+2025-03-22,Sales,Office Supplies,1043.36,Business Cards,Expense
+2025-03-22,Sales,Service Revenue,104558.36,Consulting Engagement - Pacific Ventures,Revenue
+2025-03-22,Operations,Utilities,459.51,Electric Bill - Regional East,Expense
+2025-03-22,Finance,Audit & Compliance,11278.34,Risk Assessment Services,Expense
+2025-03-22,Sales,Client Entertainment,4197.41,Golf Outing,Expense
+2025-03-23,Operations,Facilities & Rent,11935.27,Building Maintenance Fee,Expense
+2025-03-23,Marketing,Software & Tools,3421.95,Drift Chatbot,Expense
+2025-03-23,Finance,Banking & Merchant Fees,6217.3,Lockbox Services,Expense
+2025-03-23,Sales,Software & Subscriptions,2278.78,Gong.io Platform,Expense
+2025-03-23,Sales,Recurring Revenue,137216.23,Annual Contract - Evergreen Retail,Revenue
+2025-03-23,Marketing,Content & Creative,14208.86,Freelance Writer - Blog Series,Expense
+2025-03-24,Operations,Office Supplies & General,6115.34,Office Supplies - W.B. Mason,Expense
+2025-03-24,Marketing,Digital Advertising,3390.52,Programmatic Buy - Lead Gen Q1,Expense
+2025-03-24,Sales,Office Supplies,303.23,Presentation Materials,Expense
+2025-03-24,Sales,Travel & Entertainment,11544.08,Flight - Miami,Expense
+2025-03-24,Sales,Travel & Entertainment,5102.25,Conference Travel,Expense
+2025-03-24,Operations,IT Infrastructure,9643.64,Backup & Recovery Services,Expense
+2025-03-25,Operations,Security Services,1700.07,Visitor Management System,Expense
+2025-03-25,Operations,Facilities & Rent,11373.38,Storage Unit Rental,Expense
+2025-03-25,Operations,Logistics & Shipping,4014.33,FedEx Account - Monthly,Expense
+2025-03-25,Finance,Professional Services,8694.0,Valuation Services,Expense
+2025-03-26,Operations,Facilities & Rent,39695.29,Parking Garage Contract,Expense
+2025-03-26,Operations,Logistics & Shipping,3891.15,FedEx Account - Monthly,Expense
+2025-03-26,Sales,Product Sales,-530273.77,Starter Bundle - Delta Logistics,Revenue
+2025-03-27,Operations,Facilities & Rent,31359.93,Parking Garage Contract,Expense
+2025-03-27,Marketing,PR & Communications,6359.79,Executive Comms Coaching,Expense
+2025-03-27,Sales,Training & Development,715.39,Workshop Fee,Expense
+2025-03-28,Sales,Product Sales,147617.49,Professional Tier - Acme Corp,Revenue
+2025-03-28,Operations,IT Infrastructure,16728.99,Cybersecurity Suite - CrowdStrike,Expense
+2025-03-28,Sales,Service Revenue,44704.05,Training Package - Frontier Tech,Revenue
+2025-04-01,Operations,IT Infrastructure,26815.33,Backup & Recovery Services,Expense
+2025-04-01,Operations,Insurance,5732.7,Property Insurance - Quarterly,Expense
+2025-04-02,Marketing,Events & Sponsorships,7699.91,Conference Sponsorship - Industry Summit,Expense
+2025-04-03,Operations,Equipment & Maintenance,8290.57,Office Furniture - Monitors,Expense
+2025-04-03,Sales,Client Entertainment,465.77,Thank You Gift,Expense
+2025-04-03,Finance,Professional Services,3923.2,Accounting Policy Consultation,Expense
+2025-04-03,Marketing,Content & Creative,6523.69,Freelance Writer - Landing Pages,Expense
+2025-04-03,Operations,Office Supplies & General,2927.0,Coffee Service - Monthly,Expense
+2025-04-03,Marketing,PR & Communications,3652.23,Executive Comms Coaching,Expense
+2025-04-04,Operations,IT Infrastructure,27043.6,AWS Hosting - Monthly,Expense
+2025-04-05,Marketing,Events & Sponsorships,3635.93,Roadshow - San Francisco,Expense
+2025-04-05,Marketing,Brand & Collateral,3067.89,Print Brochures,Expense
+2025-04-05,Finance,Banking & Merchant Fees,5754.24,Merchant Processing - Square,Expense
+2025-04-05,Finance,Recruiting & HR,2484.74,LinkedIn Recruiter Seat,Expense
+2025-04-05,Marketing,Digital Advertising,4029.68,Google Ads - Brand Awareness,Expense
+2025-04-05,Operations,Insurance,3380.52,Directors & Officers Insurance,Expense
+2025-04-05,Sales,Sales Commissions,46389.87,Commission Payout - April,Expense
+2025-04-06,Operations,Utilities,3043.3,Electric Bill - HQ,Expense
+2025-04-06,Operations,Utilities,9485.85,Water & Sewer - HQ,Expense
+2025-04-06,Operations,Facilities & Rent,29978.56,Storage Unit Rental,Expense
+2025-04-06,Marketing,Digital Advertising,4826.93,Paid Search - Non-Brand,Expense
+2025-04-07,Finance,Audit & Compliance,5800.49,Controls Testing - Q2,Expense
+2025-04-08,Marketing,Content & Creative,6868.16,Animation Project,Expense
+2025-04-08,Marketing,Events & Sponsorships,5873.32,Roadshow - Nashville,Expense
+2025-04-09,Marketing,Brand & Collateral,2223.14,Office Signage,Expense
+2025-04-09,Marketing,Software & Tools,14294.55,HubSpot License,Expense
+2025-04-09,Sales,Service Revenue,170022.01,Consulting Engagement - Meridian Foods,Revenue
+2025-04-09,Finance,Software & Tools,1809.67,Adaptive Insights,Expense
+2025-04-10,Sales,Software & Subscriptions,6289.32,Gong.io Platform,Expense
+2025-04-10,Operations,Insurance,3745.74,Property Insurance - Quarterly,Expense
+2025-04-10,Marketing,Content & Creative,10429.9,Copywriting Services,Expense
+2025-04-10,Sales,Training & Development,726.03,Coaching Session,Expense
+2025-04-10,Marketing,Events & Sponsorships,1244.14,Virtual Event Platform,Expense
+2025-04-11,Marketing,Digital Advertising,12177.01,Retargeting Campaign,Expense
+2025-04-11,Marketing,PR & Communications,9129.64,Executive Comms Coaching,Expense
+2025-04-11,Sales,Client Entertainment,893.62,Client Gift - Oakmont Properties,Expense
+2025-04-11,Sales,Client Entertainment,2017.13,Golf Outing,Expense
+2025-04-11,Sales,Service Revenue,106006.63,Consulting Engagement - Harbor Media,Revenue
+2025-04-12,Sales,Client Entertainment,1062.49,Holiday Gift Basket,Expense
+2025-04-12,Marketing,Events & Sponsorships,933.59,Trade Show Booth - Dreamforce,Expense
+2025-04-12,Sales,Service Revenue,118022.99,Training Package - Jasper Analytics,Revenue
+2025-04-12,Operations,Utilities,2579.0,Natural Gas - Regional East,Expense
+2025-04-12,Operations,Facilities & Rent,21309.86,Parking Garage Contract,Expense
+2025-04-12,Operations,Facilities & Rent,9801.79,Common Area Charges,Expense
+2025-04-12,Finance,Audit & Compliance,2707.71,Risk Assessment Services,Expense
+2025-04-13,Finance,Office & Admin,799.78,Reference Materials,Expense
+2025-04-13,Finance,Software & Tools,5444.32,Concur Expense Management,Expense
+2025-04-13,Finance,Office & Admin,1420.99,Calculator & Equipment,Expense
+2025-04-13,Sales,Travel & Entertainment,2758.95,Client Dinner - Denver,Expense
+2025-04-13,Sales,Service Revenue,102294.46,Consulting Engagement - Pacific Ventures,Revenue
+2025-04-13,Sales,Product Sales,181843.19,Professional Tier - Delta Logistics,Revenue
+2025-04-13,Sales,Training & Development,1784.39,Coaching Session,Expense
+2025-04-15,Operations,Security Services,821.43,Access Control System,Expense
+2025-04-15,Sales,Office Supplies,744.83,Demo Equipment,Expense
+2025-04-15,Marketing,Events & Sponsorships,3410.27,Customer Dinner - Nashville,Expense
+2025-04-15,Operations,Logistics & Shipping,1089.31,UPS Business Account,Expense
+2025-04-15,Finance,Software & Tools,4109.73,FloQast Close Management,Expense
+2025-04-15,Finance,Software & Tools,2930.17,Concur Expense Management,Expense
+2025-04-16,Finance,Training & Certifications,1304.72,ERP Training Session,Expense
+2025-04-16,Finance,Software & Tools,1042.8,Bill.com Payment Platform,Expense
+2025-04-16,Sales,Recurring Revenue,40883.82,Platform Access - Northwind Traders,Revenue
+2025-04-16,Operations,Security Services,5379.06,Security Guard Contract,Expense
+2025-04-16,Marketing,Digital Advertising,27890.2,LinkedIn Ads - Event Promo,Expense
+2025-04-16,Operations,Equipment & Maintenance,17364.63,Kitchen Equipment,Expense
+2025-04-17,Marketing,PR & Communications,4081.1,Press Release Distribution,Expense
+2025-04-17,Finance,Recruiting & HR,1995.45,Job Board Posting - Indeed,Expense
+2025-04-17,Finance,Recruiting & HR,1404.96,Background Check Services,Expense
+2025-04-17,Sales,Service Revenue,186508.3,Support Retainer - Oakmont Properties,Revenue
+2025-04-17,Marketing,Digital Advertising,11829.82,Programmatic Buy - ABM Campaign,Expense
+2025-04-17,Marketing,Digital Advertising,9765.8,Google Ads - Content Syndication,Expense
+2025-04-18,Operations,Office Supplies & General,3513.25,Breakroom Supplies,Expense
+2025-04-19,Sales,Sales Commissions,16150.0,Bonus - Q2 Performance,Expense
+2025-04-19,Sales,Recurring Revenue,104436.97,Annual Contract - Vertex Solutions,Revenue
+2025-04-20,Finance,Professional Services,8459.74,R&D Tax Credit Study,Expense
+2025-04-20,Finance,Office & Admin,1986.06,Calculator & Equipment,Expense
+2025-04-20,Operations,Logistics & Shipping,3767.35,Package Room Supplies,Expense
+2025-04-21,Sales,Service Revenue,212741.61,Support Retainer - Vertex Solutions,Revenue
+2025-04-21,Sales,Software & Subscriptions,3630.86,DocuSign,Expense
+2025-04-21,Sales,Recurring Revenue,30300.57,Monthly Subscription - Harbor Media,Revenue
+2025-04-21,Sales,Service Revenue,104864.65,Consulting Engagement - Summit Healthcare,Revenue
+2025-04-21,Operations,Logistics & Shipping,1562.73,Shipping Software License,Expense
+2025-04-21,Operations,Office Supplies & General,1803.47,Water Delivery Service,Expense
+2025-04-22,Marketing,Digital Advertising,4719.32,Google Ads - Lead Gen Q2,Expense
+2025-04-22,Operations,Logistics & Shipping,2035.25,Courier Services,Expense
+2025-04-22,Operations,Equipment & Maintenance,9805.14,HVAC Maintenance,Expense
+2025-04-22,Operations,Security Services,1706.34,Access Control System,Expense
+2025-04-22,Sales,Product Sales,21678.99,Starter Bundle - Oakmont Properties,Revenue
+2025-04-22,Sales,Recurring Revenue,18511.07,Monthly Subscription - Frontier Tech,Revenue
+2025-04-22,Sales,Travel & Entertainment,3652.3,Flight - New York,Expense
+2025-04-23,Sales,Client Entertainment,1431.32,Event Tickets - Vertex Solutions,Expense
+2025-04-23,Sales,Office Supplies,319.97,Sales Collateral Printing,Expense
+2025-04-23,Operations,Facilities & Rent,29448.95,Office Lease - Regional Office - East,Expense
+2025-04-24,Operations,Utilities,9495.76,Water & Sewer - HQ,Expense
+2025-04-24,Operations,Office Supplies & General,1431.02,First Aid Supplies,Expense
+2025-04-24,Operations,Security Services,1519.96,Visitor Management System,Expense
+2025-04-24,Sales,Travel & Entertainment,1547.04,Uber/Taxi - Phoenix,Expense
+2025-04-24,Sales,Training & Development,1914.85,Workshop Fee,Expense
+2025-04-25,Sales,Travel & Entertainment,5792.02,Hotel - Miami,Expense
+2025-04-25,Operations,Insurance,8426.51,Business Interruption Insurance,Expense
+2025-04-25,Operations,Security Services,1572.56,Alarm Monitoring - ADT Business,Expense
+2025-04-25,Sales,Office Supplies,856.58,Presentation Materials,Expense
+2025-04-25,Sales,Sales Commissions,26921.81,Bonus - Q2 Performance,Expense
+2025-04-25,Marketing,Brand & Collateral,4424.04,Office Signage,Expense
+2025-04-26,Finance,Training & Certifications,3704.43,Excel Training Workshop,Expense
+2025-04-26,Finance,Audit & Compliance,4804.21,Internal Audit Services,Expense
+2025-04-27,Marketing,Software & Tools,6630.07,Hootsuite Platform,Expense
+2025-04-27,Sales,Sales Commissions,24678.4,SPIF Payout,Expense
+2025-04-27,Sales,Travel & Entertainment,2961.95,Client Dinner - San Francisco,Expense
+2025-04-27,Operations,Office Supplies & General,8976.94,Paper Products,Expense
+2025-04-27,Marketing,Content & Creative,9532.91,Video Production - Social Content,Expense
+2025-04-28,Operations,Logistics & Shipping,8275.13,Freight Shipping - UPS Freight,Expense
+2025-04-28,Finance,Banking & Merchant Fees,5176.16,Credit Card Processing Fees,Expense
+2025-05-01,Marketing,Brand & Collateral,2152.97,Trade Show Banners,Expense
+2025-05-01,Finance,Banking & Merchant Fees,5991.44,Merchant Processing - Square,Expense
+2025-05-01,Finance,Training & Certifications,402.36,Excel Training Workshop,Expense
+2025-05-02,Marketing,PR & Communications,3609.05,Crisis Communications Prep,Expense
+2025-05-02,Operations,Logistics & Shipping,1521.02,Freight Shipping - FedEx Freight,Expense
+2025-05-02,Operations,Logistics & Shipping,1429.6,Freight Shipping - XPO Logistics,Expense
+2025-05-02,Marketing,Brand & Collateral,1625.67,Trade Show Banners,Expense
+2025-05-02,Sales,Training & Development,339.18,Workshop Fee,Expense
+2025-05-03,Finance,Training & Certifications,480.71,Technical Accounting Training,Expense
+2025-05-03,Operations,Office Supplies & General,576.81,First Aid Supplies,Expense
+2025-05-03,Operations,Facilities & Rent,23347.45,Office Lease - Satellite Office,Expense
+2025-05-04,Marketing,Content & Creative,7575.92,Stock Images License,Expense
+2025-05-04,Marketing,Software & Tools,6705.66,6sense Platform,Expense
+2025-05-04,Operations,Insurance,2968.18,Directors & Officers Insurance,Expense
+2025-05-04,Operations,Office Supplies & General,1369.72,Office Supplies - Staples,Expense
+2025-05-05,Finance,Banking & Merchant Fees,5637.19,Lockbox Services,Expense
+2025-05-05,Marketing,Content & Creative,9780.55,Copywriting Services,Expense
+2025-05-06,Finance,Training & Certifications,859.08,Excel Training Workshop,Expense
+2025-05-06,Operations,Equipment & Maintenance,17197.07,AV Equipment - Conference Room,Expense
+2025-05-06,Marketing,Digital Advertising,5850.39,Meta Ads - Content Syndication,Expense
+2025-05-07,Operations,Facilities & Rent,24474.61,Office Lease - Satellite Office,Expense
+2025-05-07,Operations,Insurance,1554.01,Cyber Liability Insurance,Expense
+2025-05-07,Finance,Office & Admin,654.44,Department Supplies,Expense
+2025-05-07,Operations,Logistics & Shipping,3420.17,Freight Shipping - Old Dominion,Expense
+2025-05-08,Marketing,Brand & Collateral,2736.73,Trade Show Banners,Expense
+2025-05-08,Sales,Travel & Entertainment,5123.27,Uber/Taxi - Miami,Expense
+2025-05-08,Marketing,Digital Advertising,6049.87,YouTube Pre-roll Ads,Expense
+2025-05-08,Marketing,PR & Communications,1283.99,Media Monitoring Service,Expense
+2025-05-09,Finance,Audit & Compliance,9190.16,External Audit - KPMG,Expense
+2025-05-09,Finance,Office & Admin,713.97,Filing & Storage Supplies,Expense
+2025-05-09,Marketing,Digital Advertising,3620.77,Retargeting Campaign,Expense
+2025-05-09,Marketing,Events & Sponsorships,15952.01,Customer Dinner - Nashville,Expense
+2025-05-09,Sales,Sales Commissions,36059.76,Bonus - Q2 Performance,Expense
+2025-05-09,Finance,Software & Tools,1919.3,FloQast Close Management,Expense
+2025-05-10,Sales,Sales Commissions,44539.93,SPIF Payout,Expense
+2025-05-10,Finance,Software & Tools,762.17,Expensify Licenses,Expense
+2025-05-10,Marketing,Content & Creative,10983.08,Graphic Design - Social Content,Expense
+2025-05-12,Sales,Recurring Revenue,175656.23,Platform Access - Pacific Ventures,Revenue
+2025-05-12,Operations,Facilities & Rent,29833.45,Building Maintenance Fee,Expense
+2025-05-13,Marketing,Digital Advertising,11111.46,LinkedIn Ads - Content Syndication,Expense
+2025-05-13,Sales,Software & Subscriptions,1948.27,DocuSign,Expense
+2025-05-14,Marketing,Events & Sponsorships,9297.12,Trade Show Booth - SaaStr Annual,Expense
+2025-05-14,Sales,Product Sales,50752.35,Starter Bundle - Vertex Solutions,Revenue
+2025-05-14,Sales,Client Entertainment,2249.46,Client Gift - Atlas Manufacturing,Expense
+2025-05-15,Marketing,Digital Advertising,6592.62,Retargeting Campaign,Expense
+2025-05-15,Finance,Software & Tools,955.92,Avalara Tax Software,Expense
+2025-05-15,Finance,Training & Certifications,1412.49,ERP Training Session,Expense
+2025-05-15,Operations,Utilities,7490.69,Internet Service - AT&T Fiber,Expense
+2025-05-15,Sales,Recurring Revenue,183250.95,Monthly Subscription - Evergreen Retail,Revenue
+2025-05-16,Operations,Logistics & Shipping,2241.44,Courier Services,Expense
+2025-05-16,Sales,Product Sales,185183.17,Starter Bundle - Lakeside Hotels,Revenue
+2025-05-16,Finance,Office & Admin,408.39,Filing & Storage Supplies,Expense
+2025-05-16,Finance,Professional Services,11850.03,M&A Due Diligence Support,Expense
+2025-05-16,Marketing,Digital Advertising,5023.2,Paid Search - Brand Terms,Expense
+2025-05-16,Marketing,Brand & Collateral,4289.0,Trade Show Banners,Expense
+2025-05-17,Sales,Recurring Revenue,-224436.76,API Usage - Vertex Solutions,Revenue
+2025-05-17,Finance,Software & Tools,5739.01,Concur Expense Management,Expense
+2025-05-17,Finance,Office & Admin,1144.8,Filing & Storage Supplies,Expense
+2025-05-17,Marketing,Software & Tools,7808.27,Canva Enterprise,Expense
+2025-05-17,Sales,Travel & Entertainment,10663.76,Conference Travel,Expense
+2025-05-17,Marketing,Content & Creative,3182.88,Freelance Writer - Landing Pages,Expense
+2025-05-17,Operations,Facilities & Rent,24390.0,Parking Garage Contract,Expense
+2025-05-17,Operations,IT Infrastructure,3556.25,Azure Services - Monthly,Expense
+2025-05-18,Finance,Software & Tools,1915.04,Bill.com Payment Platform,Expense
+2025-05-18,Operations,Office Supplies & General,1743.0,Janitorial Service Contract,Expense
+2025-05-18,Marketing,Digital Advertising,4846.22,Google Ads - Product Launch,Expense
+2025-05-18,Sales,Travel & Entertainment,4185.72,Uber/Taxi - Denver,Expense
+2025-05-19,Finance,Recruiting & HR,2267.22,Onboarding Materials,Expense
+2025-05-19,Sales,Product Sales,40067.88,Growth Package - Pacific Ventures,Revenue
+2025-05-19,Operations,Equipment & Maintenance,2996.27,Standing Desks Order,Expense
+2025-05-19,Sales,Office Supplies,1337.03,Sales Collateral Printing,Expense
+2025-05-19,Sales,Training & Development,534.91,Coaching Session,Expense
+2025-05-19,Operations,IT Infrastructure,7290.41,Microsoft 365 Licenses,Expense
+2025-05-19,Operations,Office Supplies & General,6266.2,Coffee Service - Monthly,Expense
+2025-05-19,Marketing,PR & Communications,3398.98,PR Agency Retainer - Ketchum,Expense
+2025-05-19,Operations,Office Supplies & General,638.77,First Aid Supplies,Expense
+2025-05-19,Sales,Product Sales,125266.79,Growth Package - Jasper Analytics,Revenue
+2025-05-19,Sales,Product Sales,171581.27,Professional Tier - Evergreen Retail,Revenue
+2025-05-20,Finance,Recruiting & HR,2188.86,Recruiting Fee - AP Specialist,Expense
+2025-05-20,Sales,Training & Development,693.4,Workshop Fee,Expense
+2025-05-20,Sales,Product Sales,139853.39,Starter Bundle - Summit Healthcare,Revenue
+2025-05-20,Marketing,Content & Creative,4223.95,Animation Project,Expense
+2025-05-20,Sales,Software & Subscriptions,2119.1,Outreach License,Expense
+2025-05-20,Sales,Training & Development,731.82,Coaching Session,Expense
+2025-05-21,Sales,Software & Subscriptions,6012.37,Gong.io Platform,Expense
+2025-05-21,Sales,Travel & Entertainment,9222.9,Flight - Miami,Expense
+2025-05-21,Operations,IT Infrastructure,18512.02,Azure Services - Monthly,Expense
+2025-05-21,Finance,Software & Tools,5253.28,Coupa Procurement,Expense
+2025-05-21,Operations,Security Services,4940.18,Access Control System,Expense
+2025-05-22,Operations,Equipment & Maintenance,7593.75,Copier Lease - Canon,Expense
+2025-05-22,Operations,Insurance,5053.26,Workers Compensation,Expense
+2025-05-22,Sales,Software & Subscriptions,2281.77,DocuSign,Expense
+2025-05-23,Operations,Utilities,2724.42,Electric Bill - HQ,Expense
+2025-05-23,Marketing,PR & Communications,3031.93,Media Monitoring Service,Expense
+2025-05-23,Sales,Office Supplies,659.11,Sales Collateral Printing,Expense
+2025-05-23,Operations,Insurance,5415.12,Directors & Officers Insurance,Expense
+2025-05-24,Operations,Security Services,7372.84,Alarm Monitoring - ADT Business,Expense
+2025-05-24,Operations,Insurance,2042.91,Property Insurance - Quarterly,Expense
+2025-05-24,Marketing,Software & Tools,2575.4,6sense Platform,Expense
+2025-05-24,Sales,Client Entertainment,962.21,Client Gift - Keystone Energy,Expense
+2025-05-24,Operations,Logistics & Shipping,5131.33,Package Room Supplies,Expense
+2025-05-25,Operations,Equipment & Maintenance,6797.31,Computer Hardware - Chairs,Expense
+2025-05-25,Operations,IT Infrastructure,9673.93,Backup & Recovery Services,Expense
+2025-05-25,Operations,Office Supplies & General,2071.9,Breakroom Supplies,Expense
+2025-05-25,Sales,Software & Subscriptions,720.85,Gong.io Platform,Expense
+2025-05-25,Sales,Service Revenue,35246.0,Support Retainer - Evergreen Retail,Revenue
+2025-05-26,Marketing,Digital Advertising,25977.09,LinkedIn Ads - Webinar Promo,Expense
+2025-05-26,Sales,Sales Commissions,33848.19,Accelerator Bonus,Expense
+2025-05-26,Sales,Product Sales,429367.67,Starter Bundle - Jasper Analytics,Revenue
+2025-05-26,Sales,Service Revenue,241023.68,Implementation Services - Delta Logistics,Revenue
+2025-05-26,Operations,IT Infrastructure,5772.46,Cisco Network Equipment,Expense
+2025-05-27,Marketing,Events & Sponsorships,8879.93,Customer Dinner - Austin,Expense
+2025-05-27,Marketing,Events & Sponsorships,3677.12,Webinar Platform Hosting,Expense
+2025-05-27,Marketing,PR & Communications,2311.75,Press Release Distribution,Expense
+2025-05-27,Operations,Utilities,1803.99,Internet Service - Comcast Business,Expense
+2025-05-27,Operations,Utilities,2871.39,Internet Service - Verizon Enterprise,Expense
+2025-05-27,Operations,Utilities,1900.55,Internet Service - Comcast Business,Expense
+2025-05-27,Operations,Utilities,6428.42,Water & Sewer - Regional West,Expense
+2025-05-28,Finance,Audit & Compliance,3785.99,Risk Assessment Services,Expense
+2025-05-28,Sales,Client Entertainment,1718.73,Client Gift - Atlas Manufacturing,Expense
+2025-05-28,Operations,Utilities,1823.87,Waste Management,Expense
+2025-06-01,Operations,Insurance,4670.69,Cyber Liability Insurance,Expense
+2025-06-01,Operations,Utilities,2108.9,Natural Gas - HQ,Expense
+2025-06-01,Operations,Office Supplies & General,2516.05,Paper Products,Expense
+2025-06-01,Finance,Software & Tools,1860.45,Expensify Licenses,Expense
+2025-06-01,Sales,Sales Commissions,22015.43,Commission Payout - June,Expense
+2025-06-01,Operations,Logistics & Shipping,2227.53,USPS Postage Meter,Expense
+2025-06-02,Operations,Security Services,8805.71,Visitor Management System,Expense
+2025-06-02,Operations,Equipment & Maintenance,3547.75,Computer Hardware - Keyboards/Mice,Expense
+2025-06-02,Marketing,Events & Sponsorships,10958.67,Virtual Event Platform,Expense
+2025-06-02,Sales,Training & Development,1800.39,Coaching Session,Expense
+2025-06-03,Operations,Office Supplies & General,5685.4,Water Delivery Service,Expense
+2025-06-03,Operations,Utilities,7552.42,Electric Bill - Regional West,Expense
+2025-06-03,Operations,Logistics & Shipping,895.82,Freight Shipping - FedEx Freight,Expense
+2025-06-03,Operations,Logistics & Shipping,6753.03,Freight Shipping - Old Dominion,Expense
+2025-06-03,Operations,Facilities & Rent,22607.5,Storage Unit Rental,Expense
+2025-06-03,Operations,Security Services,2853.89,Badge System License,Expense
+2025-06-04,Operations,Utilities,6661.24,Water & Sewer - Regional East,Expense
+2025-06-04,Finance,Recruiting & HR,2757.52,Recruiting Fee - Senior Accountant,Expense
+2025-06-04,Operations,Equipment & Maintenance,5761.19,Monitor Refresh Program,Expense
+2025-06-04,Sales,Software & Subscriptions,3971.43,DocuSign,Expense
+2025-06-05,Operations,Office Supplies & General,6746.84,Paper Products,Expense
+2025-06-06,Finance,Software & Tools,2338.23,Workday Subscription,Expense
+2025-06-06,Operations,Logistics & Shipping,1210.69,Freight Shipping - UPS Freight,Expense
+2025-06-06,Operations,Facilities & Rent,4625.39,Property Management Fee,Expense
+2025-06-06,Operations,Equipment & Maintenance,8303.81,Standing Desks Order,Expense
+2025-06-06,Operations,IT Infrastructure,10162.82,Cisco Network Equipment,Expense
+2025-06-07,Finance,Recruiting & HR,1484.61,LinkedIn Recruiter Seat,Expense
+2025-06-08,Sales,Office Supplies,221.71,Business Cards,Expense
+2025-06-08,Marketing,Events & Sponsorships,3260.97,Roadshow - Las Vegas,Expense
+2025-06-08,Sales,Service Revenue,65988.22,Consulting Engagement - Pacific Ventures,Revenue
+2025-06-08,Operations,Insurance,3041.28,Workers Compensation,Expense
+2025-06-08,Finance,Office & Admin,846.23,Filing & Storage Supplies,Expense
+2025-06-09,Marketing,Content & Creative,16580.35,Graphic Design - Case Study,Expense
+2025-06-09,Finance,Audit & Compliance,18398.68,Controls Testing - Q2,Expense
+2025-06-10,Marketing,Digital Advertising,4105.88,YouTube Pre-roll Ads,Expense
+2025-06-10,Sales,Travel & Entertainment,2833.06,Client Dinner - Miami,Expense
+2025-06-10,Marketing,Brand & Collateral,3697.64,Trade Show Banners,Expense
+2025-06-10,Marketing,Software & Tools,13690.94,Vidyard License,Expense
+2025-06-10,Finance,Recruiting & HR,879.48,Background Check Services,Expense
+2025-06-11,Sales,Recurring Revenue,848721.24,Platform Access - Atlas Manufacturing,Revenue
+2025-06-11,Sales,Product Sales,134581.88,Starter Bundle - Evergreen Retail,Revenue
+2025-06-11,Finance,Professional Services,7319.64,Accounting Policy Consultation,Expense
+2025-06-11,Finance,Software & Tools,10101.44,BlackLine Reconciliation,Expense
+2025-06-11,Operations,Facilities & Rent,18605.29,Coworking Space - Regional Office - West,Expense
+2025-06-12,Operations,Equipment & Maintenance,5778.66,HVAC Maintenance,Expense
+2025-06-12,Operations,Utilities,640.51,Natural Gas - Regional West,Expense
+2025-06-12,Sales,Travel & Entertainment,3474.66,Client Dinner - New York,Expense
+2025-06-12,Finance,Banking & Merchant Fees,2517.68,Credit Card Processing Fees,Expense
+2025-06-12,Sales,Software & Subscriptions,1178.39,Outreach License,Expense
+2025-06-12,Marketing,PR & Communications,520.21,Media Monitoring Service,Expense
+2025-06-13,Sales,Training & Development,974.94,Conference Registration,Expense
+2025-06-13,Finance,Office & Admin,881.18,Team Lunch - Month End Close,Expense
+2025-06-13,Finance,Training & Certifications,1112.51,ERP Training Session,Expense
+2025-06-13,Marketing,Digital Advertising,24876.39,Paid Search - Brand Terms,Expense
+2025-06-14,Marketing,PR & Communications,1641.44,Press Release Distribution,Expense
+2025-06-14,Sales,Client Entertainment,821.99,Thank You Gift,Expense
+2025-06-15,Marketing,Digital Advertising,7902.66,YouTube Pre-roll Ads,Expense
+2025-06-15,Finance,Software & Tools,872.25,Coupa Procurement,Expense
+2025-06-15,Finance,Recruiting & HR,2843.48,Job Board Posting - Indeed,Expense
+2025-06-16,Sales,Training & Development,1693.5,Workshop Fee,Expense
+2025-06-16,Finance,Software & Tools,3701.51,NetSuite License - Monthly,Expense
+2025-06-16,Finance,Banking & Merchant Fees,7803.25,ACH Processing Fees,Expense
+2025-06-17,Marketing,PR & Communications,3777.05,Press Release Distribution,Expense
+2025-06-17,Operations,IT Infrastructure,8218.44,Microsoft 365 Licenses,Expense
+2025-06-17,Finance,Office & Admin,2353.77,Subscription - WSJ,Expense
+2025-06-18,Sales,Client Entertainment,846.73,Client Gift - Lakeside Hotels,Expense
+2025-06-18,Sales,Travel & Entertainment,5437.14,Client Dinner - Phoenix,Expense
+2025-06-18,Operations,IT Infrastructure,22495.17,AWS Hosting - Monthly,Expense
+2025-06-18,Finance,Office & Admin,557.91,Team Lunch - Month End Close,Expense
+2025-06-19,Operations,Utilities,2555.41,Electric Bill - Regional East,Expense
+2025-06-19,Sales,Travel & Entertainment,4447.72,Client Dinner - Dallas,Expense
+2025-06-20,Marketing,Events & Sponsorships,10957.92,Webinar Platform Hosting,Expense
+2025-06-20,Marketing,Brand & Collateral,704.15,Business Cards Reorder,Expense
+2025-06-21,Sales,Training & Development,1333.39,Conference Registration,Expense
+2025-06-21,Operations,Insurance,3484.29,Workers Compensation,Expense
+2025-06-21,Marketing,Digital Advertising,2742.94,Retargeting Campaign,Expense
+2025-06-21,Operations,Logistics & Shipping,2615.55,Package Room Supplies,Expense
+2025-06-22,Operations,Facilities & Rent,44234.44,Storage Unit Rental,Expense
+2025-06-22,Marketing,Content & Creative,12809.43,Agency Retainer - PixelWorks,Expense
+2025-06-22,Marketing,Brand & Collateral,2876.6,Brand Guidelines Update,Expense
+2025-06-22,Marketing,Digital Advertising,22405.74,Display Network - ABM Campaign,Expense
+2025-06-23,Sales,Service Revenue,40977.67,Training Package - Oakmont Properties,Revenue
+2025-06-23,Sales,Software & Subscriptions,2770.61,DocuSign,Expense
+2025-06-23,Finance,Training & Certifications,3120.58,ERP Training Session,Expense
+2025-06-23,Marketing,Content & Creative,6665.29,Video Production - Product Video,Expense
+2025-06-23,Sales,Service Revenue,341949.75,Support Retainer - Atlas Manufacturing,Revenue
+2025-06-24,Marketing,Digital Advertising,11439.23,Retargeting Campaign,Expense
+2025-06-24,Marketing,Digital Advertising,2764.18,Paid Search - Brand Terms,Expense
+2025-06-24,Marketing,Digital Advertising,2029.09,Google Ads - Product Launch,Expense
+2025-06-24,Sales,Client Entertainment,810.39,Event Tickets - Northwind Traders,Expense
+2025-06-24,Sales,Sales Commissions,37940.46,SPIF Payout,Expense
+2025-06-24,Sales,Service Revenue,23732.59,Support Retainer - Evergreen Retail,Revenue
+2025-06-24,Sales,Client Entertainment,971.76,Client Gift - Harbor Media,Expense
+2025-06-24,Finance,Professional Services,3433.12,Transfer Pricing Study,Expense
+2025-06-24,Finance,Professional Services,6236.54,Tax Advisory - Moss Adams,Expense
+2025-06-25,Operations,Insurance,11046.94,General Liability Insurance,Expense
+2025-06-25,Operations,Office Supplies & General,2816.16,Janitorial Service Contract,Expense
+2025-06-25,Sales,Product Sales,143804.71,Starter Bundle - Pacific Ventures,Revenue
+2025-06-25,Marketing,PR & Communications,2670.47,Media Monitoring Service,Expense
+2025-06-25,Sales,Client Entertainment,1060.09,Client Gift - Pinnacle Industries,Expense
+2025-06-25,Marketing,PR & Communications,1554.29,PR Agency Retainer - Weber Shandwick,Expense
+2025-06-26,Sales,Office Supplies,624.02,Demo Equipment,Expense
+2025-06-26,Sales,Sales Commissions,50672.44,Accelerator Bonus,Expense
+2025-06-26,Operations,Utilities,991.88,Phone System - Monthly,Expense
+2025-06-26,Operations,Equipment & Maintenance,8032.31,Computer Hardware - Desks,Expense
+2025-06-27,Marketing,Software & Tools,8909.36,Marketo Subscription,Expense
+2025-06-27,Sales,Office Supplies,834.46,Business Cards,Expense
+2025-06-27,Sales,Software & Subscriptions,2659.67,Gong.io Platform,Expense
+2025-06-27,Sales,Travel & Entertainment,4986.08,Uber/Taxi - Dallas,Expense
+2025-06-28,Operations,Utilities,996.17,Water & Sewer - HQ,Expense
+2025-06-28,Operations,IT Infrastructure,18768.87,Zoom Enterprise License,Expense
+2025-06-28,Sales,Service Revenue,122817.26,Support Retainer - Vertex Solutions,Revenue
+2025-07-01,Marketing,PR & Communications,2167.97,Crisis Communications Prep,Expense
+2025-07-01,Finance,Software & Tools,8097.09,Expensify Licenses,Expense
+2025-07-01,Marketing,Digital Advertising,5009.61,Display Network - ABM Campaign,Expense
+2025-07-02,Operations,Equipment & Maintenance,1360.26,Elevator Service Contract,Expense
+2025-07-02,Finance,Recruiting & HR,2806.43,LinkedIn Recruiter Seat,Expense
+2025-07-02,Finance,Training & Certifications,1339.42,ERP Training Session,Expense
+2025-07-02,Operations,Logistics & Shipping,4022.67,Shipping Software License,Expense
+2025-07-02,Operations,Office Supplies & General,2414.18,Office Supplies - Amazon Business,Expense
+2025-07-02,Operations,Utilities,3502.2,Internet Service - AT&T Fiber,Expense
+2025-07-03,Marketing,Digital Advertising,7792.57,Meta Ads - Webinar Promo,Expense
+2025-07-03,Operations,Logistics & Shipping,2142.23,USPS Postage Meter,Expense
+2025-07-03,Operations,Office Supplies & General,2075.37,Cleaning Supplies,Expense
+2025-07-03,Finance,Office & Admin,408.51,Subscription - WSJ,Expense
+2025-07-04,Operations,Office Supplies & General,627.24,Cleaning Supplies,Expense
+2025-07-04,Marketing,Events & Sponsorships,10942.07,Speaker Fee - B2B Sales Con,Expense
+2025-07-04,Operations,Utilities,3421.51,Natural Gas - HQ,Expense
+2025-07-04,Finance,Software & Tools,3760.87,FloQast Close Management,Expense
+2025-07-05,Finance,Software & Tools,3464.09,Adaptive Insights,Expense
+2025-07-05,Marketing,Digital Advertising,4519.4,Paid Search - Brand Terms,Expense
+2025-07-05,Operations,Equipment & Maintenance,4707.82,Kitchen Equipment,Expense
+2025-07-05,Finance,Office & Admin,480.17,Department Supplies,Expense
+2025-07-06,Operations,Logistics & Shipping,906.26,Package Room Supplies,Expense
+2025-07-07,Operations,Insurance,4746.52,Workers Compensation,Expense
+2025-07-07,Operations,Facilities & Rent,11834.13,Parking Garage Contract,Expense
+2025-07-07,Marketing,Brand & Collateral,2779.52,Print Brochures,Expense
+2025-07-07,Marketing,Events & Sponsorships,6158.62,Virtual Event Platform,Expense
+2025-07-07,Sales,Recurring Revenue,-48190.15,Monthly Subscription - Northwind Traders,Revenue
+2025-07-07,Operations,IT Infrastructure,16081.27,Cybersecurity Suite - SentinelOne,Expense
+2025-07-08,Operations,Equipment & Maintenance,6506.39,HVAC Maintenance,Expense
+2025-07-08,Operations,IT Infrastructure,6673.88,Zoom Enterprise License,Expense
+2025-07-08,Marketing,Events & Sponsorships,8624.89,Conference Sponsorship - Finance Leaders Forum,Expense
+2025-07-09,Marketing,Content & Creative,4682.79,Agency Retainer - StoryBrand Partners,Expense
+2025-07-10,Operations,Equipment & Maintenance,9158.96,Kitchen Equipment,Expense
+2025-07-10,Sales,Recurring Revenue,98601.03,Monthly Subscription - Meridian Foods,Revenue
+2025-07-10,Sales,Office Supplies,188.34,Presentation Materials,Expense
+2025-07-10,Marketing,Content & Creative,7865.61,Graphic Design - Landing Pages,Expense
+2025-07-10,Sales,Recurring Revenue,222802.49,Platform Access - Beacon Financial,Revenue
+2025-07-11,Marketing,PR & Communications,2729.1,Crisis Communications Prep,Expense
+2025-07-11,Sales,Recurring Revenue,316075.01,Platform Access - Acme Corp,Revenue
+2025-07-12,Marketing,Software & Tools,3827.83,Hootsuite Platform,Expense
+2025-07-12,Finance,Professional Services,6510.43,Transfer Pricing Study,Expense
+2025-07-12,Marketing,Digital Advertising,5358.8,LinkedIn Ads - Lead Gen Q3,Expense
+2025-07-12,Sales,Training & Development,2769.77,Conference Registration,Expense
+2025-07-12,Sales,Client Entertainment,1233.49,Client Gift - Harbor Media,Expense
+2025-07-12,Sales,Travel & Entertainment,11265.27,Uber/Taxi - New York,Expense
+2025-07-13,Finance,Office & Admin,863.16,Office Supplies - Finance,Expense
+2025-07-13,Sales,Travel & Entertainment,7650.25,Uber/Taxi - Boston,Expense
+2025-07-14,Sales,Travel & Entertainment,4685.88,Client Dinner - Denver,Expense
+2025-07-14,Operations,Utilities,3314.34,Phone System - Monthly,Expense
+2025-07-14,Marketing,Digital Advertising,15818.44,Display Network - Retargeting,Expense
+2025-07-14,Sales,Software & Subscriptions,3856.86,DocuSign,Expense
+2025-07-15,Operations,Logistics & Shipping,1407.4,Package Room Supplies,Expense
+2025-07-15,Finance,Banking & Merchant Fees,2155.01,Foreign Exchange Fees,Expense
+2025-07-15,Sales,Recurring Revenue,270013.68,Monthly Subscription - Lakeside Hotels,Revenue
+2025-07-16,Operations,Security Services,2994.78,Access Control System,Expense
+2025-07-16,Finance,Professional Services,2540.52,Accounting Policy Consultation,Expense
+2025-07-16,Finance,Training & Certifications,1540.95,Excel Training Workshop,Expense
+2025-07-16,Operations,Insurance,3879.2,General Liability Insurance,Expense
+2025-07-17,Operations,Security Services,847.55,Alarm Monitoring - ADT Business,Expense
+2025-07-17,Sales,Product Sales,213970.97,Starter Bundle - Keystone Energy,Revenue
+2025-07-18,Marketing,Digital Advertising,10478.34,Retargeting Campaign,Expense
+2025-07-18,Sales,Sales Commissions,38662.44,SPIF Payout,Expense
+2025-07-18,Sales,Training & Development,1717.13,Conference Registration,Expense
+2025-07-19,Sales,Software & Subscriptions,8074.92,DocuSign,Expense
+2025-07-19,Marketing,Digital Advertising,1387.8,YouTube Pre-roll Ads,Expense
+2025-07-19,Operations,Facilities & Rent,30436.72,Coworking Space - HQ Building,Expense
+2025-07-19,Marketing,PR & Communications,671.68,Analyst Relations - IDC,Expense
+2025-07-19,Sales,Office Supplies,247.83,Demo Equipment,Expense
+2025-07-19,Marketing,Digital Advertising,2589.9,Meta Ads - ABM Campaign,Expense
+2025-07-20,Marketing,Content & Creative,18970.14,Freelance Writer - Email Templates,Expense
+2025-07-21,Finance,Recruiting & HR,2989.15,Recruiting Fee - Staff Accountant,Expense
+2025-07-21,Operations,Security Services,2159.62,Security Camera Maintenance,Expense
+2025-07-21,Marketing,PR & Communications,569.89,Crisis Communications Prep,Expense
+2025-07-22,Operations,Insurance,3546.24,General Liability Insurance,Expense
+2025-07-22,Operations,Equipment & Maintenance,5839.82,Computer Hardware - Desks,Expense
+2025-07-22,Finance,Training & Certifications,1974.19,Finance Conference - FP&A Summit,Expense
+2025-07-22,Marketing,Software & Tools,9038.79,Canva Enterprise,Expense
+2025-07-23,Finance,Professional Services,5010.29,Tax Advisory - Moss Adams,Expense
+2025-07-23,Operations,IT Infrastructure,11745.44,Backup & Recovery Services,Expense
+2025-07-23,Sales,Client Entertainment,792.87,Golf Outing,Expense
+2025-07-23,Sales,Recurring Revenue,136818.14,Platform Access - Keystone Energy,Revenue
+2025-07-24,Finance,Banking & Merchant Fees,5807.63,Merchant Processing - Stripe,Expense
+2025-07-24,Operations,Facilities & Rent,22624.3,Property Management Fee,Expense
+2025-07-24,Operations,Office Supplies & General,2290.62,Breakroom Supplies,Expense
+2025-07-24,Operations,Logistics & Shipping,2549.13,Freight Shipping - XPO Logistics,Expense
+2025-07-24,Sales,Office Supplies,73.0,Business Cards,Expense
+2025-07-24,Finance,Office & Admin,326.06,Reference Materials,Expense
+2025-07-24,Marketing,Brand & Collateral,4873.57,Print Brochures,Expense
+2025-07-25,Sales,Client Entertainment,1386.95,Thank You Gift,Expense
+2025-07-25,Operations,Office Supplies & General,1598.53,First Aid Supplies,Expense
+2025-07-25,Operations,IT Infrastructure,14923.41,Zoom Enterprise License,Expense
+2025-07-25,Marketing,PR & Communications,3224.38,PR Agency Retainer - Ketchum,Expense
+2025-07-26,Operations,Utilities,5816.07,Internet Service - Comcast Business,Expense
+2025-07-26,Operations,Insurance,8619.41,Cyber Liability Insurance,Expense
+2025-07-26,Operations,Security Services,2466.13,Badge System License,Expense
+2025-07-26,Marketing,PR & Communications,2087.63,Media Monitoring Service,Expense
+2025-07-26,Operations,Utilities,3929.63,Electric Bill - Regional East,Expense
+2025-07-27,Sales,Client Entertainment,2588.73,Thank You Gift,Expense
+2025-07-27,Operations,Facilities & Rent,33115.14,Office Lease - HQ Building,Expense
+2025-07-27,Operations,Office Supplies & General,5053.4,Office Supplies - Amazon Business,Expense
+2025-07-27,Sales,Sales Commissions,52656.8,Commission Payout - July,Expense
+2025-07-27,Marketing,Digital Advertising,4716.32,Google Ads - Content Syndication,Expense
+2025-07-28,Operations,Security Services,1755.83,Security Guard Contract,Expense
+2025-07-28,Finance,Audit & Compliance,15554.68,External Audit - PwC,Expense
+2025-07-28,Sales,Product Sales,244108.63,Professional Tier - Evergreen Retail,Revenue
+2025-08-01,Operations,Logistics & Shipping,6908.75,Freight Shipping - XPO Logistics,Expense
+2025-08-01,Finance,Audit & Compliance,7757.82,Controls Testing - Q3,Expense
+2025-08-01,Marketing,PR & Communications,1419.38,Press Release Distribution,Expense
+2025-08-02,Operations,Facilities & Rent,24911.15,Storage Unit Rental,Expense
+2025-08-02,Operations,IT Infrastructure,7034.52,Microsoft 365 Licenses,Expense
+2025-08-02,Sales,Product Sales,30445.78,Professional Tier - Beacon Financial,Revenue
+2025-08-02,Sales,Service Revenue,153034.65,Implementation Services - Ironclad Security,Revenue
+2025-08-02,Marketing,Events & Sponsorships,4250.99,Event Swag & Materials,Expense
+2025-08-02,Marketing,Digital Advertising,11071.82,Paid Search - Non-Brand,Expense
+2025-08-03,Sales,Sales Commissions,25755.89,SPIF Payout,Expense
+2025-08-03,Marketing,Events & Sponsorships,8074.93,Speaker Fee - B2B Sales Con,Expense
+2025-08-03,Operations,Utilities,4264.25,Natural Gas - Regional East,Expense
+2025-08-03,Operations,Office Supplies & General,1304.64,Janitorial Service Contract,Expense
+2025-08-03,Operations,Security Services,1997.12,Security Guard Contract,Expense
+2025-08-04,Sales,Training & Development,556.23,Conference Registration,Expense
+2025-08-04,Operations,Facilities & Rent,22474.04,Storage Unit Rental,Expense
+2025-08-04,Finance,Training & Certifications,1355.81,CPA CPE Credits - K. Brown,Expense
+2025-08-05,Operations,Office Supplies & General,6229.34,First Aid Supplies,Expense
+2025-08-05,Finance,Training & Certifications,2204.92,ERP Training Session,Expense
+2025-08-05,Marketing,Content & Creative,3032.41,Animation Project,Expense
+2025-08-06,Operations,IT Infrastructure,5641.97,Slack Business+ Plan,Expense
+2025-08-06,Marketing,Software & Tools,2928.67,6sense Platform,Expense
+2025-08-06,Marketing,Content & Creative,16146.3,Video Production - Whitepaper,Expense
+2025-08-07,Marketing,Digital Advertising,3858.64,Paid Search - Non-Brand,Expense
+2025-08-07,Marketing,Events & Sponsorships,999.7,Speaker Fee - Digital Marketing World,Expense
+2025-08-07,Finance,Training & Certifications,831.33,CPA CPE Credits - K. Brown,Expense
+2025-08-08,Operations,IT Infrastructure,18880.66,Azure Services - Monthly,Expense
+2025-08-08,Marketing,Brand & Collateral,1241.51,Print Brochures,Expense
+2025-08-08,Marketing,Events & Sponsorships,2043.54,Roadshow - Las Vegas,Expense
+2025-08-08,Finance,Recruiting & HR,2195.4,Job Board Posting - Indeed,Expense
+2025-08-08,Operations,IT Infrastructure,6060.05,Server Maintenance Contract,Expense
+2025-08-09,Operations,Equipment & Maintenance,12078.8,Elevator Service Contract,Expense
+2025-08-09,Finance,Banking & Merchant Fees,2169.32,Treasury Management Services,Expense
+2025-08-10,Operations,Security Services,5478.47,Access Control System,Expense
+2025-08-10,Marketing,Digital Advertising,3491.58,LinkedIn Ads - Content Syndication,Expense
+2025-08-10,Marketing,Events & Sponsorships,3730.77,Virtual Event Platform,Expense
+2025-08-10,Finance,Recruiting & HR,3479.47,Background Check Services,Expense
+2025-08-10,Operations,Office Supplies & General,676.93,Coffee Service - Monthly,Expense
+2025-08-11,Operations,Utilities,5726.51,Phone System - Monthly,Expense
+2025-08-11,Marketing,Digital Advertising,3311.53,Display Network - ABM Campaign,Expense
+2025-08-11,Sales,Client Entertainment,1651.51,Thank You Gift,Expense
+2025-08-11,Sales,Sales Commissions,32381.85,Accelerator Bonus,Expense
+2025-08-11,Sales,Recurring Revenue,251838.64,API Usage - Meridian Foods,Revenue
+2025-08-11,Sales,Travel & Entertainment,5728.08,Uber/Taxi - Miami,Expense
+2025-08-12,Sales,Service Revenue,68937.95,Consulting Engagement - Beacon Financial,Revenue
+2025-08-12,Marketing,Digital Advertising,28568.39,Google Ads - Brand Awareness,Expense
+2025-08-12,Finance,Office & Admin,686.22,Calculator & Equipment,Expense
+2025-08-12,Operations,Equipment & Maintenance,1454.1,Kitchen Equipment,Expense
+2025-08-13,Operations,Office Supplies & General,3203.68,Janitorial Service Contract,Expense
+2025-08-13,Marketing,Digital Advertising,1251.52,Google Ads - Brand Awareness,Expense
+2025-08-13,Marketing,Brand & Collateral,2312.15,Office Signage,Expense
+2025-08-13,Sales,Product Sales,150403.41,Starter Bundle - Harbor Media,Revenue
+2025-08-13,Sales,Software & Subscriptions,6153.46,LinkedIn Sales Navigator,Expense
+2025-08-14,Finance,Software & Tools,1265.44,Workday Subscription,Expense
+2025-08-14,Sales,Training & Development,978.79,Workshop Fee,Expense
+2025-08-14,Operations,Insurance,2956.5,General Liability Insurance,Expense
+2025-08-14,Marketing,Events & Sponsorships,1536.22,Speaker Fee - SaaStr Annual,Expense
+2025-08-14,Sales,Office Supplies,640.9,Business Cards,Expense
+2025-08-15,Operations,Equipment & Maintenance,10862.94,AV Equipment - Conference Room,Expense
+2025-08-15,Sales,Service Revenue,138798.78,Training Package - Granite Construction,Revenue
+2025-08-15,Sales,Office Supplies,967.06,Business Cards,Expense
+2025-08-16,Operations,Equipment & Maintenance,7165.01,Elevator Service Contract,Expense
+2025-08-16,Operations,Equipment & Maintenance,3056.82,Elevator Service Contract,Expense
+2025-08-16,Finance,Software & Tools,5143.73,Bill.com Payment Platform,Expense
+2025-08-16,Finance,Professional Services,3521.24,Tax Advisory - KPMG Tax,Expense
+2025-08-16,Marketing,Software & Tools,6444.56,6sense Platform,Expense
+2025-08-16,Marketing,Brand & Collateral,1053.02,Company Swag Order,Expense
+2025-08-17,Operations,Logistics & Shipping,3591.19,Package Room Supplies,Expense
+2025-08-17,Operations,Utilities,580.09,Water & Sewer - Regional East,Expense
+2025-08-17,Finance,Banking & Merchant Fees,6689.21,Credit Card Processing Fees,Expense
+2025-08-17,Finance,Professional Services,7910.56,Valuation Services,Expense
+2025-08-17,Marketing,Content & Creative,7741.22,Freelance Writer - Social Content,Expense
+2025-08-18,Marketing,Digital Advertising,13517.57,Programmatic Buy - Retargeting,Expense
+2025-08-19,Finance,Software & Tools,4083.76,BlackLine Reconciliation,Expense
+2025-08-19,Marketing,Software & Tools,6270.86,ZoomInfo Marketing,Expense
+2025-08-19,Finance,Office & Admin,2385.21,Printer Toner & Paper,Expense
+2025-08-19,Finance,Software & Tools,6366.59,FloQast Close Management,Expense
+2025-08-19,Operations,Logistics & Shipping,974.87,Courier Services,Expense
+2025-08-19,Marketing,Brand & Collateral,2204.14,Trade Show Banners,Expense
+2025-08-20,Sales,Software & Subscriptions,4618.03,LinkedIn Sales Navigator,Expense
+2025-08-20,Sales,Client Entertainment,766.05,Client Gift - Frontier Tech,Expense
+2025-08-20,Sales,Recurring Revenue,155597.88,API Usage - Oakmont Properties,Revenue
+2025-08-21,Sales,Client Entertainment,1358.64,Thank You Gift,Expense
+2025-08-21,Sales,Travel & Entertainment,2973.58,Uber/Taxi - Miami,Expense
+2025-08-21,Operations,Security Services,3322.45,Access Control System,Expense
+2025-08-21,Operations,Office Supplies & General,725.78,Breakroom Supplies,Expense
+2025-08-21,Sales,Software & Subscriptions,4165.41,Salesforce License,Expense
+2025-08-22,Marketing,PR & Communications,7516.88,Crisis Communications Prep,Expense
+2025-08-22,Sales,Client Entertainment,928.85,Event Tickets - Harbor Media,Expense
+2025-08-22,Operations,Security Services,2364.75,Alarm Monitoring - Allied Universal,Expense
+2025-08-22,Operations,Facilities & Rent,13768.34,Common Area Charges,Expense
+2025-08-22,Finance,Audit & Compliance,3482.77,Internal Audit Services,Expense
+2025-08-23,Sales,Service Revenue,92051.01,Support Retainer - Oakmont Properties,Revenue
+2025-08-23,Sales,Client Entertainment,1084.76,Thank You Gift,Expense
+2025-08-24,Operations,Utilities,2992.55,Waste Management,Expense
+2025-08-24,Marketing,PR & Communications,4710.67,Crisis Communications Prep,Expense
+2025-08-24,Marketing,Digital Advertising,6076.6,LinkedIn Ads - Brand Awareness,Expense
+2025-08-24,Operations,Office Supplies & General,798.12,Paper Products,Expense
+2025-08-24,Sales,Sales Commissions,51091.37,Bonus - Q3 Performance,Expense
+2025-08-24,Operations,Insurance,10796.5,Business Interruption Insurance,Expense
+2025-08-25,Sales,Recurring Revenue,-202174.02,Platform Access - Atlas Manufacturing,Revenue
+2025-08-25,Operations,IT Infrastructure,5553.38,Cisco Network Equipment,Expense
+2025-08-25,Operations,Utilities,786.92,Water & Sewer - Regional West,Expense
+2025-08-25,Operations,Utilities,6963.58,Phone System - Monthly,Expense
+2025-08-25,Marketing,PR & Communications,1724.45,Media Monitoring Service,Expense
+2025-08-25,Sales,Product Sales,130719.53,Growth Package - Crestwood Partners,Revenue
+2025-08-26,Sales,Travel & Entertainment,4677.33,Flight - New York,Expense
+2025-08-26,Sales,Service Revenue,113634.07,Support Retainer - Jasper Analytics,Revenue
+2025-08-26,Operations,Facilities & Rent,33345.46,Parking Garage Contract,Expense
+2025-08-26,Operations,Logistics & Shipping,3944.79,Freight Shipping - XPO Logistics,Expense
+2025-08-26,Sales,Travel & Entertainment,10465.18,Conference Travel,Expense
+2025-08-27,Sales,Recurring Revenue,77124.63,API Usage - Beacon Financial,Revenue
+2025-08-27,Sales,Product Sales,325859.53,Growth Package - Harbor Media,Revenue
+2025-08-27,Sales,Training & Development,1700.44,Coaching Session,Expense
+2025-08-27,Operations,Office Supplies & General,2541.4,Janitorial Service Contract,Expense
+2025-09-01,Operations,Insurance,6611.19,Property Insurance - Quarterly,Expense
+2025-09-01,Marketing,Digital Advertising,16399.02,Google Ads - Content Syndication,Expense
+2025-09-01,Sales,Office Supplies,205.37,Business Cards,Expense
+2025-09-02,Marketing,Software & Tools,3439.65,Hootsuite Platform,Expense
+2025-09-02,Finance,Recruiting & HR,1048.76,Job Board Posting - Indeed,Expense
+2025-09-02,Finance,Recruiting & HR,567.18,LinkedIn Recruiter Seat,Expense
+2025-09-02,Marketing,Brand & Collateral,3761.72,Business Cards Reorder,Expense
+2025-09-02,Operations,Logistics & Shipping,6896.05,Courier Services,Expense
+2025-09-03,Marketing,Digital Advertising,2135.94,Paid Search - Non-Brand,Expense
+2025-09-03,Finance,Software & Tools,9360.98,Avalara Tax Software,Expense
+2025-09-03,Finance,Banking & Merchant Fees,4687.73,Bank Account Fees - Wells Fargo,Expense
+2025-09-03,Sales,Travel & Entertainment,15621.96,Uber/Taxi - Dallas,Expense
+2025-09-03,Operations,IT Infrastructure,22437.28,Azure Services - Monthly,Expense
+2025-09-04,Operations,Logistics & Shipping,3356.85,USPS Postage Meter,Expense
+2025-09-04,Operations,Security Services,3191.4,Security Camera Maintenance,Expense
+2025-09-04,Operations,Insurance,5499.61,Directors & Officers Insurance,Expense
+2025-09-04,Operations,Equipment & Maintenance,13492.6,Elevator Service Contract,Expense
+2025-09-04,Marketing,Digital Advertising,3034.39,Programmatic Buy - Brand Awareness,Expense
+2025-09-04,Operations,Equipment & Maintenance,4467.44,Standing Desks Order,Expense
+2025-09-05,Sales,Service Revenue,83707.96,Implementation Services - Granite Construction,Revenue
+2025-09-05,Operations,Utilities,2561.51,Waste Management,Expense
+2025-09-05,Sales,Service Revenue,60123.37,Consulting Engagement - Crestwood Partners,Revenue
+2025-09-05,Finance,Office & Admin,458.32,Filing & Storage Supplies,Expense
+2025-09-05,Finance,Professional Services,6777.58,Accounting Policy Consultation,Expense
+2025-09-05,Marketing,Content & Creative,6452.53,Animation Project,Expense
+2025-09-05,Marketing,Digital Advertising,2654.88,Paid Search - Brand Terms,Expense
+2025-09-06,Finance,Training & Certifications,2902.04,CPA CPE Credits - K. Brown,Expense
+2025-09-06,Marketing,Events & Sponsorships,4432.97,Customer Dinner - Austin,Expense
+2025-09-08,Marketing,Software & Tools,18380.24,SEMrush Annual,Expense
+2025-09-08,Sales,Recurring Revenue,243877.09,API Usage - Vertex Solutions,Revenue
+2025-09-08,Operations,Facilities & Rent,70041.41,Property Management Fee,Expense
+2025-09-09,Finance,Software & Tools,6617.63,Expensify Licenses,Expense
+2025-09-09,Marketing,Events & Sponsorships,10066.34,Conference Sponsorship - Industry Summit,Expense
+2025-09-09,Sales,Software & Subscriptions,2418.29,Outreach License,Expense
+2025-09-10,Sales,Service Revenue,20575.27,Implementation Services - Meridian Foods,Revenue
+2025-09-10,Operations,Insurance,5580.09,Business Interruption Insurance,Expense
+2025-09-10,Marketing,PR & Communications,934.16,PR Agency Retainer - Edelman,Expense
+2025-09-11,Sales,Travel & Entertainment,6631.09,Uber/Taxi - Chicago,Expense
+2025-09-11,Sales,Travel & Entertainment,1681.53,Conference Travel,Expense
+2025-09-11,Sales,Travel & Entertainment,3582.01,Hotel - Denver,Expense
+2025-09-12,Operations,IT Infrastructure,7380.5,Cybersecurity Suite - SentinelOne,Expense
+2025-09-12,Finance,Professional Services,10690.47,Valuation Services,Expense
+2025-09-12,Finance,Office & Admin,1556.9,Filing & Storage Supplies,Expense
+2025-09-12,Sales,Product Sales,427939.88,Starter Bundle - Keystone Energy,Revenue
+2025-09-12,Sales,Office Supplies,221.47,Demo Equipment,Expense
+2025-09-12,Sales,Training & Development,1219.14,Certification Course,Expense
+2025-09-12,Sales,Software & Subscriptions,1063.59,Salesforce License,Expense
+2025-09-12,Operations,Office Supplies & General,1664.15,Breakroom Supplies,Expense
+2025-09-12,Marketing,Digital Advertising,2770.46,LinkedIn Ads - ABM Campaign,Expense
+2025-09-13,Marketing,Digital Advertising,1787.79,Retargeting Campaign,Expense
+2025-09-13,Finance,Recruiting & HR,813.35,Onboarding Materials,Expense
+2025-09-13,Marketing,Digital Advertising,9341.77,Retargeting Campaign,Expense
+2025-09-14,Marketing,Digital Advertising,7106.08,LinkedIn Ads - ABM Campaign,Expense
+2025-09-14,Finance,Banking & Merchant Fees,2748.83,Wire Transfer Fees,Expense
+2025-09-15,Sales,Product Sales,-680417.9,Enterprise License - Harbor Media,Revenue
+2025-09-15,Sales,Client Entertainment,1378.99,Holiday Gift Basket,Expense
+2025-09-15,Sales,Product Sales,188319.31,Growth Package - Oakmont Properties,Revenue
+2025-09-15,Sales,Sales Commissions,46134.56,Accelerator Bonus,Expense
+2025-09-16,Operations,Security Services,6147.3,Access Control System,Expense
+2025-09-16,Operations,Office Supplies & General,3429.71,Coffee Service - Monthly,Expense
+2025-09-17,Finance,Audit & Compliance,12335.52,Financial Statement Audit,Expense
+2025-09-17,Operations,Utilities,804.71,Natural Gas - HQ,Expense
+2025-09-17,Marketing,Digital Advertising,31001.25,Programmatic Buy - Webinar Promo,Expense
+2025-09-17,Sales,Travel & Entertainment,4091.08,Flight - Seattle,Expense
+2025-09-17,Sales,Service Revenue,82757.29,Implementation Services - Ironclad Security,Revenue
+2025-09-17,Sales,Recurring Revenue,289768.46,Annual Contract - Jasper Analytics,Revenue
+2025-09-17,Sales,Service Revenue,379786.23,Training Package - Keystone Energy,Revenue
+2025-09-17,Finance,Banking & Merchant Fees,1919.57,Merchant Processing - Stripe,Expense
+2025-09-18,Operations,Utilities,556.4,Internet Service - AT&T Fiber,Expense
+2025-09-18,Sales,Product Sales,156540.03,Growth Package - Summit Healthcare,Revenue
+2025-09-18,Finance,Office & Admin,774.11,Reference Materials,Expense
+2025-09-18,Sales,Office Supplies,121.74,Demo Equipment,Expense
+2025-09-19,Sales,Software & Subscriptions,1567.97,LinkedIn Sales Navigator,Expense
+2025-09-19,Operations,Logistics & Shipping,2265.85,Courier Services,Expense
+2025-09-20,Sales,Software & Subscriptions,4177.24,ZoomInfo Subscription,Expense
+2025-09-20,Marketing,Content & Creative,7636.08,Animation Project,Expense
+2025-09-21,Operations,Security Services,8473.39,Security Guard Contract,Expense
+2025-09-21,Sales,Product Sales,92920.25,Professional Tier - Frontier Tech,Revenue
+2025-09-21,Sales,Service Revenue,221500.09,Support Retainer - Pinnacle Industries,Revenue
+2025-09-21,Marketing,Content & Creative,27962.58,Stock Images License,Expense
+2025-09-21,Marketing,PR & Communications,1636.58,Press Release Distribution,Expense
+2025-09-21,Operations,Utilities,3388.09,Water & Sewer - Regional East,Expense
+2025-09-21,Operations,Office Supplies & General,1998.82,Cleaning Supplies,Expense
+2025-09-22,Operations,Office Supplies & General,5874.66,First Aid Supplies,Expense
+2025-09-22,Operations,Insurance,4631.38,Workers Compensation,Expense
+2025-09-22,Sales,Sales Commissions,42829.55,SPIF Payout,Expense
+2025-09-22,Sales,Client Entertainment,4818.36,Client Gift - Atlas Manufacturing,Expense
+2025-09-22,Marketing,PR & Communications,2253.63,Executive Comms Coaching,Expense
+2025-09-23,Marketing,Events & Sponsorships,8043.96,Event Swag & Materials,Expense
+2025-09-23,Finance,Software & Tools,4126.19,Workday Subscription,Expense
+2025-09-23,Marketing,Brand & Collateral,2772.13,Company Swag Order,Expense
+2025-09-24,Operations,Equipment & Maintenance,7357.29,Monitor Refresh Program,Expense
+2025-09-24,Operations,IT Infrastructure,17679.94,Microsoft 365 Licenses,Expense
+2025-09-24,Finance,Training & Certifications,2482.29,CFI Certification Program,Expense
+2025-09-24,Sales,Service Revenue,107980.88,Consulting Engagement - Vertex Solutions,Revenue
+2025-09-24,Sales,Software & Subscriptions,1744.4,DocuSign,Expense
+2025-09-24,Marketing,Events & Sponsorships,9130.97,Customer Dinner - Austin,Expense
+2025-09-24,Marketing,Digital Advertising,1270.09,Paid Search - Brand Terms,Expense
+2025-09-24,Marketing,Brand & Collateral,2090.68,Company Swag Order,Expense
+2025-09-24,Sales,Sales Commissions,40977.86,SPIF Payout,Expense
+2025-09-24,Operations,Utilities,2201.58,Water & Sewer - Regional West,Expense
+2025-09-25,Sales,Recurring Revenue,91397.59,API Usage - Summit Healthcare,Revenue
+2025-09-25,Operations,Utilities,1113.11,Natural Gas - HQ,Expense
+2025-09-26,Operations,Logistics & Shipping,3236.41,Package Room Supplies,Expense
+2025-09-26,Sales,Sales Commissions,21954.72,Accelerator Bonus,Expense
+2025-09-26,Marketing,PR & Communications,4802.84,Analyst Relations - IDC,Expense
+2025-09-27,Finance,Recruiting & HR,1865.54,Onboarding Materials,Expense
+2025-09-27,Marketing,PR & Communications,2450.62,Media Monitoring Service,Expense
+2025-09-27,Finance,Banking & Merchant Fees,5057.41,Bank Account Fees - US Bank,Expense
+2025-09-27,Operations,Equipment & Maintenance,5709.21,Monitor Refresh Program,Expense
+2025-09-27,Operations,Facilities & Rent,28323.44,Storage Unit Rental,Expense
+2025-09-28,Finance,Office & Admin,656.54,Subscription - WSJ,Expense
+2025-09-28,Sales,Training & Development,3906.11,Conference Registration,Expense
+2025-09-28,Operations,Utilities,9256.8,Phone System - Monthly,Expense
+2025-10-01,Operations,Equipment & Maintenance,3479.19,Elevator Service Contract,Expense
+2025-10-01,Operations,Insurance,6852.55,Business Interruption Insurance,Expense
+2025-10-01,Finance,Recruiting & HR,4323.03,Onboarding Materials,Expense
+2025-10-02,Finance,Banking & Merchant Fees,5895.3,Merchant Processing - Stripe,Expense
+2025-10-02,Operations,Utilities,899.82,Internet Service - AT&T Fiber,Expense
+2025-10-02,Operations,Utilities,1932.2,Waste Management,Expense
+2025-10-02,Finance,Training & Certifications,1768.52,Technical Accounting Training,Expense
+2025-10-03,Operations,Office Supplies & General,8532.42,Coffee Service - Monthly,Expense
+2025-10-03,Operations,Office Supplies & General,3753.51,Breakroom Supplies,Expense
+2025-10-03,Operations,Utilities,12809.87,Natural Gas - HQ,Expense
+2025-10-03,Finance,Audit & Compliance,10460.09,Risk Assessment Services,Expense
+2025-10-03,Finance,Professional Services,1926.7,Tax Advisory - Moss Adams,Expense
+2025-10-04,Marketing,Digital Advertising,3879.96,Display Network - Lead Gen Q4,Expense
+2025-10-04,Marketing,Events & Sponsorships,9398.89,Webinar Platform Hosting,Expense
+2025-10-04,Operations,Equipment & Maintenance,4659.7,Janitorial Equipment,Expense
+2025-10-04,Operations,Insurance,1387.86,Business Interruption Insurance,Expense
+2025-10-04,Finance,Office & Admin,1120.99,Printer Toner & Paper,Expense
+2025-10-05,Marketing,PR & Communications,5406.31,Media Monitoring Service,Expense
+2025-10-05,Operations,Insurance,1141.45,Workers Compensation,Expense
+2025-10-05,Operations,Facilities & Rent,32417.62,Property Management Fee,Expense
+2025-10-05,Marketing,Digital Advertising,18028.57,LinkedIn Ads - Content Syndication,Expense
+2025-10-05,Marketing,Digital Advertising,38647.21,Meta Ads - ABM Campaign,Expense
+2025-10-05,Marketing,Events & Sponsorships,16208.91,Speaker Fee - Digital Marketing World,Expense
+2025-10-05,Sales,Client Entertainment,1917.61,Golf Outing,Expense
+2025-10-07,Sales,Training & Development,753.69,Workshop Fee,Expense
+2025-10-07,Operations,Office Supplies & General,2122.26,Water Delivery Service,Expense
+2025-10-07,Marketing,Digital Advertising,21530.18,Display Network - ABM Campaign,Expense
+2025-10-07,Operations,Equipment & Maintenance,8917.19,Copier Lease - HP,Expense
+2025-10-08,Operations,Logistics & Shipping,6482.26,UPS Business Account,Expense
+2025-10-08,Finance,Training & Certifications,1741.53,CFA Program Materials,Expense
+2025-10-08,Marketing,Digital Advertising,5456.65,Google Ads - Brand Awareness,Expense
+2025-10-09,Marketing,PR & Communications,5940.29,Press Release Distribution,Expense
+2025-10-10,Operations,Utilities,3396.9,Internet Service - Verizon Enterprise,Expense
+2025-10-10,Sales,Sales Commissions,65182.09,Accelerator Bonus,Expense
+2025-10-10,Sales,Travel & Entertainment,2955.72,Conference Travel,Expense
+2025-10-10,Marketing,Content & Creative,17447.56,Video Production - Infographic,Expense
+2025-10-11,Sales,Recurring Revenue,127279.63,Annual Contract - Atlas Manufacturing,Revenue
+2025-10-11,Marketing,Digital Advertising,10820.48,Paid Search - Non-Brand,Expense
+2025-10-11,Marketing,Brand & Collateral,3603.54,Office Signage,Expense
+2025-10-12,Marketing,Content & Creative,5906.49,Animation Project,Expense
+2025-10-12,Finance,Office & Admin,2015.86,Reference Materials,Expense
+2025-10-12,Finance,Office & Admin,975.05,Office Supplies - Finance,Expense
+2025-10-13,Marketing,Software & Tools,8833.96,HubSpot License,Expense
+2025-10-13,Marketing,Content & Creative,2012.61,Agency Retainer - Spark Creative,Expense
+2025-10-13,Sales,Office Supplies,1079.16,Demo Equipment,Expense
+2025-10-13,Sales,Recurring Revenue,76109.42,Annual Contract - Harbor Media,Revenue
+2025-10-13,Marketing,PR & Communications,2190.23,Press Release Distribution,Expense
+2025-10-13,Marketing,Software & Tools,2027.37,ZoomInfo Marketing,Expense
+2025-10-13,Finance,Professional Services,6627.22,State & Local Tax Consulting,Expense
+2025-10-14,Sales,Software & Subscriptions,5982.84,Gong.io Platform,Expense
+2025-10-14,Sales,Client Entertainment,412.21,Client Gift - Evergreen Retail,Expense
+2025-10-15,Marketing,Software & Tools,5294.09,Drift Chatbot,Expense
+2025-10-15,Marketing,Events & Sponsorships,8855.59,Speaker Fee - B2B Sales Con,Expense
+2025-10-16,Sales,Training & Development,1648.25,Certification Course,Expense
+2025-10-16,Finance,Office & Admin,1171.2,Team Lunch - Month End Close,Expense
+2025-10-16,Operations,Insurance,3549.22,Business Interruption Insurance,Expense
+2025-10-17,Sales,Training & Development,404.43,Sales Training Program,Expense
+2025-10-17,Operations,Facilities & Rent,40942.74,Building Maintenance Fee,Expense
+2025-10-18,Finance,Software & Tools,5504.08,NetSuite License - Monthly,Expense
+2025-10-18,Operations,Equipment & Maintenance,14033.97,Janitorial Equipment,Expense
+2025-10-18,Operations,Facilities & Rent,13539.42,Common Area Charges,Expense
+2025-10-18,Finance,Software & Tools,3651.53,Adaptive Insights,Expense
+2025-10-19,Sales,Training & Development,1152.54,Workshop Fee,Expense
+2025-10-19,Sales,Service Revenue,151889.22,Training Package - Keystone Energy,Revenue
+2025-10-19,Sales,Training & Development,1497.75,Certification Course,Expense
+2025-10-19,Sales,Sales Commissions,30179.8,SPIF Payout,Expense
+2025-10-19,Sales,Service Revenue,83490.04,Training Package - Summit Healthcare,Revenue
+2025-10-19,Finance,Training & Certifications,2014.93,Finance Conference - FP&A Summit,Expense
+2025-10-20,Finance,Banking & Merchant Fees,6377.36,Treasury Management Services,Expense
+2025-10-20,Finance,Software & Tools,6868.64,Adaptive Insights,Expense
+2025-10-20,Finance,Professional Services,5716.35,M&A Due Diligence Support,Expense
+2025-10-20,Sales,Travel & Entertainment,6086.27,Hotel - Dallas,Expense
+2025-10-20,Sales,Client Entertainment,1132.72,Thank You Gift,Expense
+2025-10-21,Operations,Logistics & Shipping,1995.03,Shipping Software License,Expense
+2025-10-21,Sales,Service Revenue,54015.08,Implementation Services - Harbor Media,Revenue
+2025-10-21,Marketing,Brand & Collateral,1048.35,Promotional Items - Tote Bags,Expense
+2025-10-21,Marketing,Content & Creative,3550.09,Stock Images License,Expense
+2025-10-21,Operations,Utilities,1602.65,Internet Service - Comcast Business,Expense
+2025-10-21,Operations,Utilities,4612.29,Waste Management,Expense
+2025-10-21,Operations,Equipment & Maintenance,5163.26,Janitorial Equipment,Expense
+2025-10-21,Marketing,Digital Advertising,6634.47,Meta Ads - Webinar Promo,Expense
+2025-10-21,Operations,Security Services,8528.58,Badge System License,Expense
+2025-10-22,Finance,Training & Certifications,1686.96,Finance Conference - AFP Conference,Expense
+2025-10-22,Sales,Sales Commissions,56193.45,Accelerator Bonus,Expense
+2025-10-22,Marketing,Software & Tools,8340.98,Google Analytics 360,Expense
+2025-10-22,Sales,Client Entertainment,1100.37,Client Gift - Pinnacle Industries,Expense
+2025-10-22,Operations,Facilities & Rent,16362.42,Building Maintenance Fee,Expense
+2025-10-22,Marketing,Content & Creative,8426.95,Animation Project,Expense
+2025-10-23,Marketing,Content & Creative,11923.29,Agency Retainer - Spark Creative,Expense
+2025-10-23,Operations,Office Supplies & General,7499.54,Janitorial Service Contract,Expense
+2025-10-23,Operations,Logistics & Shipping,5425.09,UPS Business Account,Expense
+2025-10-24,Sales,Product Sales,186834.84,Enterprise License - Keystone Energy,Revenue
+2025-10-24,Operations,IT Infrastructure,29717.06,AWS Hosting - Monthly,Expense
+2025-10-24,Sales,Product Sales,235575.59,Professional Tier - Granite Construction,Revenue
+2025-10-25,Sales,Software & Subscriptions,4099.2,ZoomInfo Subscription,Expense
+2025-10-25,Sales,Product Sales,175595.19,Enterprise License - Frontier Tech,Revenue
+2025-10-25,Sales,Travel & Entertainment,3572.52,Flight - Chicago,Expense
+2025-10-25,Sales,Office Supplies,295.85,Presentation Materials,Expense
+2025-10-25,Operations,Insurance,4162.98,Business Interruption Insurance,Expense
+2025-10-25,Marketing,Brand & Collateral,4927.36,Brand Guidelines Update,Expense
+2025-10-25,Marketing,Digital Advertising,2049.9,Display Network - Content Syndication,Expense
+2025-10-25,Operations,IT Infrastructure,20756.59,Cisco Network Equipment,Expense
+2025-10-26,Sales,Product Sales,42828.11,Growth Package - Delta Logistics,Revenue
+2025-10-27,Finance,Recruiting & HR,2798.04,Employee Recognition,Expense
+2025-10-27,Sales,Product Sales,826915.77,Growth Package - Crestwood Partners,Revenue
+2025-10-27,Finance,Software & Tools,5031.88,Avalara Tax Software,Expense
+2025-10-27,Finance,Audit & Compliance,9172.77,Compliance Consulting,Expense
+2025-10-27,Operations,Security Services,2727.82,Security Camera Maintenance,Expense
+2025-10-27,Operations,IT Infrastructure,15481.62,Help Desk Software,Expense
+2025-10-28,Operations,Utilities,1173.37,Internet Service - Comcast Business,Expense
+2025-10-28,Marketing,Digital Advertising,2807.81,Retargeting Campaign,Expense
+2025-10-28,Sales,Travel & Entertainment,7874.51,Flight - Phoenix,Expense
+2025-11-01,Operations,Insurance,12318.44,Cyber Liability Insurance,Expense
+2025-11-01,Operations,Logistics & Shipping,1662.17,USPS Postage Meter,Expense
+2025-11-01,Operations,IT Infrastructure,26815.75,Server Maintenance Contract,Expense
+2025-11-01,Sales,Client Entertainment,2262.0,Event Tickets - Frontier Tech,Expense
+2025-11-02,Operations,Equipment & Maintenance,12460.84,Elevator Service Contract,Expense
+2025-11-02,Operations,Insurance,4856.93,Business Interruption Insurance,Expense
+2025-11-02,Operations,Logistics & Shipping,6640.88,UPS Business Account,Expense
+2025-11-02,Operations,Office Supplies & General,5927.03,Breakroom Supplies,Expense
+2025-11-02,Operations,Insurance,1929.02,General Liability Insurance,Expense
+2025-11-02,Operations,Logistics & Shipping,3330.21,FedEx Account - Monthly,Expense
+2025-11-03,Marketing,Content & Creative,8845.14,Freelance Writer - Landing Pages,Expense
+2025-11-03,Operations,Security Services,1144.01,Visitor Management System,Expense
+2025-11-03,Operations,Office Supplies & General,1998.57,Cleaning Supplies,Expense
+2025-11-03,Marketing,Brand & Collateral,1316.1,Trade Show Banners,Expense
+2025-11-03,Finance,Office & Admin,635.86,Printer Toner & Paper,Expense
+2025-11-04,Marketing,PR & Communications,3283.58,Press Release Distribution,Expense
+2025-11-04,Operations,Insurance,3588.07,Workers Compensation,Expense
+2025-11-04,Operations,Facilities & Rent,60248.78,Coworking Space - Downtown Office,Expense
+2025-11-05,Operations,Utilities,5441.88,Phone System - Monthly,Expense
+2025-11-05,Operations,Office Supplies & General,3545.86,Office Supplies - Staples,Expense
+2025-11-05,Operations,Utilities,4969.08,Natural Gas - HQ,Expense
+2025-11-06,Finance,Banking & Merchant Fees,4196.78,Bank Account Fees - Bank of America,Expense
+2025-11-06,Finance,Professional Services,5472.54,Valuation Services,Expense
+2025-11-06,Finance,Training & Certifications,752.44,Finance Conference - Controller Conference,Expense
+2025-11-06,Marketing,Digital Advertising,8663.18,Display Network - Event Promo,Expense
+2025-11-07,Sales,Travel & Entertainment,3807.38,Uber/Taxi - Denver,Expense
+2025-11-07,Finance,Software & Tools,6474.12,Expensify Licenses,Expense
+2025-11-08,Finance,Office & Admin,1073.75,Team Lunch - Month End Close,Expense
+2025-11-08,Marketing,Content & Creative,6500.54,Agency Retainer - Blue Ocean Agency,Expense
+2025-11-08,Marketing,Events & Sponsorships,7755.14,Roadshow - New York,Expense
+2025-11-08,Finance,Banking & Merchant Fees,2123.9,Merchant Processing - Square,Expense
+2025-11-08,Finance,Training & Certifications,402.74,Excel Training Workshop,Expense
+2025-11-08,Sales,Product Sales,221622.16,Starter Bundle - Atlas Manufacturing,Revenue
+2025-11-09,Finance,Software & Tools,1531.56,NetSuite License - Monthly,Expense
+2025-11-09,Finance,Recruiting & HR,1779.54,Onboarding Materials,Expense
+2025-11-09,Marketing,Brand & Collateral,1960.38,Promotional Items - Notebooks,Expense
+2025-11-09,Operations,Security Services,2190.71,Badge System License,Expense
+2025-11-09,Marketing,Software & Tools,5230.1,Vidyard License,Expense
+2025-11-10,Operations,Security Services,2705.91,Badge System License,Expense
+2025-11-10,Finance,Banking & Merchant Fees,4664.12,Treasury Management Services,Expense
+2025-11-10,Marketing,Events & Sponsorships,12926.27,Webinar Platform Hosting,Expense
+2025-11-11,Sales,Service Revenue,205440.48,Consulting Engagement - Keystone Energy,Revenue
+2025-11-11,Marketing,Events & Sponsorships,1973.31,Virtual Event Platform,Expense
+2025-11-11,Marketing,Brand & Collateral,1600.17,Trade Show Banners,Expense
+2025-11-11,Marketing,Events & Sponsorships,8324.24,Speaker Fee - Digital Marketing World,Expense
+2025-11-11,Marketing,Digital Advertising,8912.26,Paid Search - Non-Brand,Expense
+2025-11-11,Operations,Equipment & Maintenance,20925.67,Computer Hardware - Chairs,Expense
+2025-11-11,Sales,Software & Subscriptions,4840.52,LinkedIn Sales Navigator,Expense
+2025-11-12,Marketing,PR & Communications,4406.84,Analyst Relations - Frost & Sullivan,Expense
+2025-11-12,Sales,Travel & Entertainment,10065.87,Hotel - Denver,Expense
+2025-11-12,Sales,Service Revenue,180621.95,Training Package - Lakeside Hotels,Revenue
+2025-11-13,Sales,Client Entertainment,2499.9,Event Tickets - Pinnacle Industries,Expense
+2025-11-13,Sales,Service Revenue,138213.53,Support Retainer - Northwind Traders,Revenue
+2025-11-13,Finance,Audit & Compliance,3228.56,Controls Testing - Q4,Expense
+2025-11-13,Sales,Training & Development,1859.19,Workshop Fee,Expense
+2025-11-13,Finance,Recruiting & HR,1745.44,Employee Recognition,Expense
+2025-11-13,Sales,Client Entertainment,2921.45,Golf Outing,Expense
+2025-11-14,Sales,Training & Development,1630.54,Coaching Session,Expense
+2025-11-14,Sales,Recurring Revenue,80231.97,Platform Access - Lakeside Hotels,Revenue
+2025-11-14,Marketing,Brand & Collateral,4535.35,Trade Show Banners,Expense
+2025-11-15,Sales,Training & Development,665.46,Workshop Fee,Expense
+2025-11-15,Sales,Office Supplies,210.18,Presentation Materials,Expense
+2025-11-15,Marketing,PR & Communications,10604.25,Executive Comms Coaching,Expense
+2025-11-15,Finance,Software & Tools,3560.33,BlackLine Reconciliation,Expense
+2025-11-15,Marketing,PR & Communications,9567.5,Press Release Distribution,Expense
+2025-11-15,Operations,Office Supplies & General,7872.61,Coffee Service - Monthly,Expense
+2025-11-16,Finance,Software & Tools,3863.8,Workday Subscription,Expense
+2025-11-17,Sales,Recurring Revenue,249431.38,Platform Access - Pacific Ventures,Revenue
+2025-11-17,Sales,Software & Subscriptions,3071.24,Salesforce License,Expense
+2025-11-17,Sales,Office Supplies,238.13,Presentation Materials,Expense
+2025-11-17,Finance,Professional Services,4130.21,M&A Due Diligence Support,Expense
+2025-11-17,Finance,Professional Services,6656.21,State & Local Tax Consulting,Expense
+2025-11-17,Sales,Office Supplies,494.23,Business Cards,Expense
+2025-11-18,Marketing,Events & Sponsorships,13484.78,Virtual Event Platform,Expense
+2025-11-18,Marketing,Software & Tools,23129.61,Drift Chatbot,Expense
+2025-11-18,Finance,Audit & Compliance,10002.14,Risk Assessment Services,Expense
+2025-11-18,Finance,Software & Tools,1724.44,Expensify Licenses,Expense
+2025-11-18,Operations,Logistics & Shipping,3571.99,Package Room Supplies,Expense
+2025-11-18,Operations,Facilities & Rent,68667.51,Storage Unit Rental,Expense
+2025-11-19,Marketing,Digital Advertising,27974.69,LinkedIn Ads - ABM Campaign,Expense
+2025-11-19,Marketing,Content & Creative,22489.0,Agency Retainer - PixelWorks,Expense
+2025-11-19,Marketing,Content & Creative,8200.26,Copywriting Services,Expense
+2025-11-19,Finance,Office & Admin,1204.24,Reference Materials,Expense
+2025-11-19,Sales,Recurring Revenue,162119.21,Platform Access - Beacon Financial,Revenue
+2025-11-20,Finance,Training & Certifications,2331.13,CPA CPE Credits - K. Brown,Expense
+2025-11-20,Finance,Software & Tools,1823.8,BlackLine Reconciliation,Expense
+2025-11-20,Operations,Insurance,3006.77,Cyber Liability Insurance,Expense
+2025-11-22,Marketing,Digital Advertising,12821.0,Programmatic Buy - Brand Awareness,Expense
+2025-11-23,Finance,Training & Certifications,793.38,Leadership Development,Expense
+2025-11-23,Operations,Equipment & Maintenance,10400.1,AV Equipment - Conference Room,Expense
+2025-11-23,Sales,Product Sales,393786.05,Starter Bundle - Granite Construction,Revenue
+2025-11-24,Finance,Recruiting & HR,1082.42,Employee Recognition,Expense
+2025-11-24,Operations,Equipment & Maintenance,8133.69,Kitchen Equipment,Expense
+2025-11-24,Marketing,Digital Advertising,34606.58,Paid Search - Non-Brand,Expense
+2025-11-25,Operations,IT Infrastructure,14306.26,Microsoft 365 Licenses,Expense
+2025-11-25,Sales,Sales Commissions,85655.69,Bonus - Q4 Performance,Expense
+2025-11-25,Sales,Service Revenue,188316.23,Training Package - Crestwood Partners,Revenue
+2025-11-25,Sales,Sales Commissions,30608.86,Accelerator Bonus,Expense
+2025-11-26,Marketing,Digital Advertising,10717.22,YouTube Pre-roll Ads,Expense
+2025-11-26,Marketing,Digital Advertising,4398.65,Meta Ads - ABM Campaign,Expense
+2025-11-26,Sales,Training & Development,1558.63,Sales Training Program,Expense
+2025-11-26,Sales,Travel & Entertainment,3811.64,Hotel - Atlanta,Expense
+2025-11-26,Sales,Service Revenue,309792.92,Training Package - Atlas Manufacturing,Revenue
+2025-11-26,Operations,Utilities,2787.93,Phone System - Monthly,Expense
+2025-11-26,Operations,Utilities,2064.39,Electric Bill - HQ,Expense
+2025-11-27,Sales,Travel & Entertainment,2272.78,Conference Travel,Expense
+2025-11-27,Sales,Service Revenue,192601.44,Implementation Services - Atlas Manufacturing,Revenue
+2025-11-27,Marketing,Content & Creative,4890.24,Photography Session,Expense
+2025-11-27,Operations,Security Services,6315.94,Access Control System,Expense
+2025-11-27,Operations,Security Services,2498.38,Visitor Management System,Expense
+2025-11-27,Sales,Service Revenue,-653116.48,Training Package - Frontier Tech,Revenue
+2025-11-27,Operations,IT Infrastructure,16757.36,Azure Services - Monthly,Expense
+2025-11-27,Sales,Sales Commissions,25609.09,Bonus - Q4 Performance,Expense
+2025-11-28,Operations,Logistics & Shipping,2183.07,USPS Postage Meter,Expense
+2025-11-28,Sales,Software & Subscriptions,3430.38,Outreach License,Expense
+2025-11-28,Sales,Service Revenue,340698.51,Training Package - Pinnacle Industries,Revenue
+2025-11-28,Sales,Service Revenue,115047.1,Implementation Services - Pacific Ventures,Revenue
+2025-11-28,Sales,Travel & Entertainment,2636.22,Hotel - New York,Expense
+2025-11-28,Operations,Utilities,5792.62,Waste Management,Expense
+2025-12-01,Finance,Software & Tools,2588.83,FloQast Close Management,Expense
+2025-12-01,Finance,Professional Services,15868.46,R&D Tax Credit Study,Expense
+2025-12-01,Sales,Service Revenue,183862.37,Training Package - Oakmont Properties,Revenue
+2025-12-01,Operations,Office Supplies & General,2819.79,Paper Products,Expense
+2025-12-01,Operations,IT Infrastructure,26064.95,Server Maintenance Contract,Expense
+2025-12-02,Marketing,PR & Communications,2114.85,Crisis Communications Prep,Expense
+2025-12-02,Operations,Facilities & Rent,30921.22,Office Lease - Satellite Office,Expense
+2025-12-03,Sales,Travel & Entertainment,1689.27,Flight - Phoenix,Expense
+2025-12-03,Operations,Office Supplies & General,1852.43,Office Supplies - Office Depot,Expense
+2025-12-03,Operations,Equipment & Maintenance,24357.46,Copier Lease - HP,Expense
+2025-12-03,Operations,Office Supplies & General,8251.67,Office Supplies - Amazon Business,Expense
+2025-12-04,Finance,Recruiting & HR,2199.65,Job Board Posting - Indeed,Expense
+2025-12-04,Finance,Banking & Merchant Fees,4828.08,Treasury Management Services,Expense
+2025-12-05,Operations,Equipment & Maintenance,6064.69,Elevator Service Contract,Expense
+2025-12-05,Operations,Facilities & Rent,33493.5,Parking Garage Contract,Expense
+2025-12-05,Finance,Recruiting & HR,2969.52,Recruiting Fee - AP Specialist,Expense
+2025-12-05,Marketing,Content & Creative,19084.98,Freelance Writer - Whitepaper,Expense
+2025-12-05,Marketing,Events & Sponsorships,9450.95,Customer Dinner - Nashville,Expense
+2025-12-05,Marketing,Events & Sponsorships,5429.37,Speaker Fee - Dreamforce,Expense
+2025-12-06,Marketing,Content & Creative,7626.79,Video Production - Email Templates,Expense
+2025-12-06,Operations,Utilities,6014.3,Phone System - Monthly,Expense
+2025-12-07,Marketing,Software & Tools,9139.76,Marketo Subscription,Expense
+2025-12-07,Operations,Office Supplies & General,5365.36,First Aid Supplies,Expense
+2025-12-07,Operations,IT Infrastructure,10896.22,Backup & Recovery Services,Expense
+2025-12-07,Marketing,Software & Tools,5554.26,6sense Platform,Expense
+2025-12-09,Finance,Office & Admin,2392.83,Subscription - Bloomberg,Expense
+2025-12-09,Marketing,Brand & Collateral,2781.56,Trade Show Banners,Expense
+2025-12-10,Finance,Banking & Merchant Fees,8019.54,Lockbox Services,Expense
+2025-12-10,Sales,Software & Subscriptions,2081.88,DocuSign,Expense
+2025-12-10,Sales,Travel & Entertainment,6491.46,Client Dinner - Chicago,Expense
+2025-12-10,Marketing,PR & Communications,4477.9,PR Agency Retainer - Edelman,Expense
+2025-12-10,Finance,Audit & Compliance,16299.0,Financial Statement Audit,Expense
+2025-12-10,Finance,Software & Tools,2842.57,Avalara Tax Software,Expense
+2025-12-11,Marketing,Events & Sponsorships,12328.06,Roadshow - Nashville,Expense
+2025-12-11,Marketing,Digital Advertising,9545.44,Paid Search - Brand Terms,Expense
+2025-12-11,Operations,Insurance,15614.56,Cyber Liability Insurance,Expense
+2025-12-11,Operations,Utilities,8827.83,Waste Management,Expense
+2025-12-11,Sales,Client Entertainment,1228.97,Thank You Gift,Expense
+2025-12-12,Finance,Recruiting & HR,2046.76,Onboarding Materials,Expense
+2025-12-12,Marketing,Content & Creative,5490.29,Copywriting Services,Expense
+2025-12-13,Sales,Client Entertainment,2264.53,Client Gift - Delta Logistics,Expense
+2025-12-13,Sales,Software & Subscriptions,7847.67,ZoomInfo Subscription,Expense
+2025-12-13,Finance,Office & Admin,650.75,Calculator & Equipment,Expense
+2025-12-13,Marketing,Software & Tools,3533.6,Hootsuite Platform,Expense
+2025-12-13,Marketing,Digital Advertising,9037.66,Paid Search - Brand Terms,Expense
+2025-12-13,Operations,Utilities,6902.92,Natural Gas - Regional West,Expense
+2025-12-14,Operations,Office Supplies & General,1275.5,Coffee Service - Monthly,Expense
+2025-12-14,Sales,Office Supplies,278.76,Business Cards,Expense
+2025-12-14,Sales,Client Entertainment,1321.94,Golf Outing,Expense
+2025-12-14,Marketing,Brand & Collateral,3350.05,Trade Show Banners,Expense
+2025-12-14,Sales,Sales Commissions,31211.26,Bonus - Q4 Performance,Expense
+2025-12-14,Operations,Office Supplies & General,1076.95,First Aid Supplies,Expense
+2025-12-15,Sales,Travel & Entertainment,1923.51,Uber/Taxi - Chicago,Expense
+2025-12-15,Sales,Recurring Revenue,365137.33,Annual Contract - Oakmont Properties,Revenue
+2025-12-15,Operations,Logistics & Shipping,7434.39,Freight Shipping - Old Dominion,Expense
+2025-12-15,Operations,IT Infrastructure,6502.62,Backup & Recovery Services,Expense
+2025-12-15,Sales,Sales Commissions,42783.82,Commission Payout - December,Expense
+2025-12-15,Finance,Training & Certifications,1629.4,CFI Certification Program,Expense
+2025-12-15,Sales,Product Sales,159658.29,Starter Bundle - Summit Healthcare,Revenue
+2025-12-15,Marketing,Digital Advertising,6960.92,Programmatic Buy - Event Promo,Expense
+2025-12-15,Marketing,Digital Advertising,11438.2,Display Network - Content Syndication,Expense
+2025-12-16,Sales,Recurring Revenue,112799.5,Platform Access - Jasper Analytics,Revenue
+2025-12-16,Operations,Logistics & Shipping,3175.08,Courier Services,Expense
+2025-12-17,Sales,Sales Commissions,29272.97,Accelerator Bonus,Expense
+2025-12-17,Sales,Service Revenue,339088.08,Implementation Services - Frontier Tech,Revenue
+2025-12-17,Sales,Sales Commissions,20985.84,Accelerator Bonus,Expense
+2025-12-17,Marketing,Digital Advertising,4920.08,Paid Search - Brand Terms,Expense
+2025-12-17,Marketing,Brand & Collateral,5369.73,Company Swag Order,Expense
+2025-12-18,Operations,Logistics & Shipping,3513.3,USPS Postage Meter,Expense
+2025-12-18,Sales,Office Supplies,299.34,Business Cards,Expense
+2025-12-19,Marketing,Content & Creative,15191.22,Freelance Writer - Product Video,Expense
+2025-12-19,Operations,Facilities & Rent,29721.55,Office Lease - Downtown Office,Expense
+2025-12-19,Operations,Insurance,10148.62,General Liability Insurance,Expense
+2025-12-19,Finance,Recruiting & HR,2147.35,Onboarding Materials,Expense
+2025-12-20,Finance,Software & Tools,783.52,Workday Subscription,Expense
+2025-12-20,Marketing,Software & Tools,12788.16,Google Analytics 360,Expense
+2025-12-20,Operations,Logistics & Shipping,1056.87,FedEx Account - Monthly,Expense
+2025-12-21,Sales,Sales Commissions,56529.96,Bonus - Q4 Performance,Expense
+2025-12-21,Sales,Training & Development,2153.41,Coaching Session,Expense
+2025-12-21,Sales,Product Sales,97713.25,Enterprise License - Meridian Foods,Revenue
+2025-12-21,Marketing,PR & Communications,5570.29,Media Monitoring Service,Expense
+2025-12-21,Finance,Training & Certifications,3316.77,CFI Certification Program,Expense
+2025-12-22,Sales,Travel & Entertainment,1955.77,Hotel - Boston,Expense
+2025-12-22,Sales,Recurring Revenue,151861.39,Monthly Subscription - Keystone Energy,Revenue
+2025-12-22,Marketing,Digital Advertising,12970.15,Paid Search - Brand Terms,Expense
+2025-12-22,Marketing,Events & Sponsorships,8374.41,Conference Sponsorship - Dreamforce,Expense
+2025-12-23,Sales,Training & Development,1863.5,Certification Course,Expense
+2025-12-23,Sales,Office Supplies,833.3,Demo Equipment,Expense
+2025-12-23,Sales,Office Supplies,236.86,Sales Collateral Printing,Expense
+2025-12-23,Operations,Utilities,10707.02,Water & Sewer - Regional West,Expense
+2025-12-23,Marketing,Events & Sponsorships,5689.8,Webinar Platform Hosting,Expense
+2025-12-23,Sales,Travel & Entertainment,4094.73,Conference Travel,Expense
+2025-12-24,Operations,Facilities & Rent,33224.28,Coworking Space - Satellite Office,Expense
+2025-12-24,Marketing,PR & Communications,4948.62,Press Release Distribution,Expense
+2025-12-24,Marketing,Digital Advertising,4642.63,Programmatic Buy - Event Promo,Expense
+2025-12-24,Operations,Equipment & Maintenance,17681.82,Computer Hardware - Keyboards/Mice,Expense
+2025-12-24,Finance,Software & Tools,2410.8,Expensify Licenses,Expense
+2025-12-24,Operations,Security Services,13195.72,Visitor Management System,Expense
+2025-12-25,Marketing,Digital Advertising,42497.04,Paid Search - Non-Brand,Expense
+2025-12-25,Marketing,Digital Advertising,10959.22,Meta Ads - Event Promo,Expense
+2025-12-26,Finance,Banking & Merchant Fees,4178.38,Lockbox Services,Expense
+2025-12-26,Finance,Software & Tools,10308.21,Coupa Procurement,Expense
+2025-12-26,Operations,Security Services,4415.78,Alarm Monitoring - ADT Business,Expense
+2025-12-27,Sales,Office Supplies,264.12,Presentation Materials,Expense
+2025-12-27,Marketing,PR & Communications,5832.42,Media Monitoring Service,Expense
+2025-12-27,Sales,Client Entertainment,554.94,Thank You Gift,Expense
+2025-12-27,Operations,Utilities,1570.51,Internet Service - Comcast Business,Expense
+2025-12-28,Sales,Service Revenue,1050993.4,Consulting Engagement - Meridian Foods,Revenue
+2025-12-28,Sales,Client Entertainment,599.35,Golf Outing,Expense
+2025-12-28,Sales,Training & Development,1925.87,Conference Registration,Expense
+2025-12-28,Operations,IT Infrastructure,17513.54,Cisco Network Equipment,Expense
+2025-12-28,Marketing,PR & Communications,2040.52,Press Release Distribution,Expense
+2025-12-28,Marketing,Content & Creative,15833.88,Stock Images License,Expense
